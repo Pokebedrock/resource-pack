@@ -4,6 +4,7 @@ const archiver = require("archiver");
 
 /**
  * Files/Directories to exclude from build.
+ * @type {string[]}
  */
 const exclude = [
   ".vscode",
@@ -16,26 +17,39 @@ const exclude = [
   "build.js",
   "package-lock.json",
   "package.json",
+  "README.json"
 ];
 
-try {
-  const manifestData = fs.readFileSync("manifest.json", "utf8");
-  const manifest = JSON.parse(manifestData);
-  const version = manifest.header.version.join(".");
-  const fileName = `PokeBedrock RES ${version}`;
-  const filePath = `${fileName}.mcpack`;
+const manifestData = fs.readFileSync("manifest.json", "utf8");
+const manifest = JSON.parse(manifestData);
+const version = manifest.header.version.join(".");
 
-  if (fs.existsSync(filePath)) {
+try { 
+  const fileName = `PokeBedrock_RES_${version}`;
+
+  package(`${fileName}.mcpack`);
+  package(`${fileName}.zip`);
+
+} catch (error) {
+  console.error("Error:", error.message);
+  process.exit(1);
+}
+
+/**
+ * @param {string} fileName 
+ */
+function package(fileName) {
+  if (fs.existsSync(fileName)) {
     return;
   }
 
-  const output = fs.createWriteStream(filePath);
   const archive = archiver("zip", { zlib: { level: 9 } });
+  const output = fs.createWriteStream(fileName);
 
   output.on("close", () => {
     console.log(archive.pointer() + " total bytes");
     console.log((archive.pointer() / 1024 ** 2).toFixed(2) + "MB");
-    console.log(`MCPack created for version: ${version}`);
+    console.log(`[${fileName}] Release created for version: ${version}\n`);
   });
 
   archive.on("warning", (err) => {
@@ -55,10 +69,6 @@ try {
     .filter((v) => !exclude.includes(v));
 
   for (const content of contents) {
-    if (content.includes(fileName)) {
-      continue;
-    }
-
     const contentPath = path.join(__dirname, content);
 
     if (fs.lstatSync(contentPath).isDirectory()) {
@@ -69,12 +79,5 @@ try {
   }
 
   archive.pipe(output);
-
-  archive.finalize().then(() => {
-    const MCPackContents = fs.readFileSync(filePath);
-    fs.writeFileSync(`${fileName}.zip`, MCPackContents);
-  });
-} catch (error) {
-  console.error("Error:", error.message);
-  process.exit(1);
+  archive.finalize();
 }
