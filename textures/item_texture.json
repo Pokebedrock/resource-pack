@@ -1,0 +1,4152 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "crate_spawn_egg": {
+      "textures": "textures/items/crate_spawn_egg"
+    },
+    "floating_text": {
+      "textures": "textures/items/floating_text"
+    },
+    "pokedex": {
+      "textures": "textures/items/pokedex"
+    },
+    "ruby": {
+      "textures": "textures/items/ruby"
+    },
+    "raw_silicon": {
+      "textures": "textures/items/raw_silicon"
+    },
+    "raw_aluminum": {
+      "textures": "textures/items/raw_aluminum"
+    },
+    "healing_machine": {
+      "textures": "textures/items/healing_machine"
+    },
+    "trade_monitor": {
+      "textures": "textures/items/trade_machine/trade_monitor"
+    },
+    "trade_panel": {
+      "textures": "textures/items/trade_machine/trade_panel"
+    },
+    "trade_holder_right": {
+      "textures": "textures/items/trade_machine/trade_holder_right"
+    },
+    "trade_holder_left": {
+      "textures": "textures/items/trade_machine/trade_holder_left"
+    },
+    "trade_machine": {
+      "textures": "textures/items/trade_machine/trade_machine"
+    },
+    "pc": {
+      "textures": "textures/items/pc"
+    },
+
+    "black_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/black"
+    },
+    "blue_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/blue"
+    },
+    "green_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/green"
+    },
+    "pink_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/pink"
+    },
+    "red_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/red"
+    },
+    "white_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/white"
+    },
+    "yellow_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/yellow"
+    },
+
+    "ss_silicon": {
+      "textures": "textures/items/silicon"
+    },
+    "gui_item": {
+      "textures": "textures/items/gui"
+    },
+    "lemonade": {
+      "textures": "textures/items/healing_items/lemonade"
+    },
+    "sodapop": {
+      "textures": "textures/items/healing_items/sodapop"
+    },
+    "ragecandybar": {
+      "textures": "textures/items/healing_items/ragecandybar"
+    },
+    "fullrestore": {
+      "textures": "textures/items/healing_items/fullrestore"
+    },
+    "fresh_water": {
+      "textures": "textures/items/healing_items/freshwater"
+    },
+    "moomoo_milk": {
+      "textures": "textures/items/healing_items/moomoo_milk"
+    },
+
+    // Berries
+    "aguav_berry": {
+      "textures": "textures/items/berries/aguav"
+    },
+    "aspear_berry": {
+      "textures": "textures/items/berries/aspear"
+    },
+    "bluk_berry": {
+      "textures": "textures/items/berries/bluk"
+    },
+    "cheri_berry": {
+      "textures": "textures/items/berries/cheri"
+    },
+    "chesto_berry": {
+      "textures": "textures/items/berries/chesto"
+    },
+    "figy_berry": {
+      "textures": "textures/items/berries/figy"
+    },
+    "iapapa_berry": {
+      "textures": "textures/items/berries/iapapa"
+    },
+    "leppa_berry": {
+      "textures": "textures/items/berries/leppa"
+    },
+    "lum_berry": {
+      "textures": "textures/items/berries/lum"
+    },
+    "mago_berry": {
+      "textures": "textures/items/berries/mago"
+    },
+    "nanab_berry": {
+      "textures": "textures/items/berries/nanab"
+    },
+    "oran_berry": {
+      "textures": "textures/items/berries/oran"
+    },
+    "pecha_berry": {
+      "textures": "textures/items/berries/pecha"
+    },
+    "persim_berry": {
+      "textures": "textures/items/berries/persim"
+    },
+    "rawst_berry": {
+      "textures": "textures/items/berries/rawst"
+    },
+    "razz_berry": {
+      "textures": "textures/items/berries/razz"
+    },
+    "sitrus_berry": {
+      "textures": "textures/items/berries/sitrus"
+    },
+    "wiki_berry": {
+      "textures": "textures/items/berries/wiki"
+    },
+
+    "rare_candy": {
+      "textures": "textures/items/rare_candy"
+    },
+    "fire_stone": {
+      "textures": "textures/items/stones/fire_stone"
+    },
+    "ice_stone": {
+      "textures": "textures/items/stones/ice_stone"
+    },
+    "friendship_stone": {
+      "textures": "textures/items/stones/friendship_stone"
+    },
+    "water_stone": {
+      "textures": "textures/items/stones/water_stone"
+    },
+    "leaf_stone": {
+      "textures": "textures/items/stones/leaf_stone"
+    },
+    "thunder_stone": {
+      "textures": "textures/items/stones/thunder_stone"
+    },
+    "moon_stone": {
+      "textures": "textures/items/stones/moon_stone"
+    },
+    "repel": {
+      "textures": "textures/items/healing_items/repel"
+    },
+    "super_repel": {
+      "textures": "textures/items/healing_items/super_repel"
+    },
+    "max_repel": {
+      "textures": "textures/items/healing_items/max_repel"
+    },
+    "max_revive": {
+      "textures": "textures/items/healing_items/maxrevive"
+    },
+    "potion": {
+      "textures": "textures/items/healing_items/potion"
+    },
+    "super_potion": {
+      "textures": "textures/items/healing_items/superpotion"
+    },
+    "hyper_potion": {
+      "textures": "textures/items/healing_items/hyperpotion"
+    },
+    "max_potion": {
+      "textures": "textures/items/healing_items/maxpotion"
+    },
+
+    "iron_base": {
+      "textures": "textures/items/ball/base/iron"
+    },
+
+    "ss_dawnleggings": {
+      "textures": "textures/items/armor/dawnleggings"
+    },
+
+    "sun-stone": {
+      "textures": "textures/items/stones/sun_stone"
+    },
+    "shiny_stone_shard": {
+      "textures": "textures/items/stones/sun_stone_shard"
+    },
+    "leaf_stone_shard": {
+      "textures": "textures/items/stones/leaf_stone_shard"
+    },
+    "ice_stone_shard": {
+      "textures": "textures/items/stones/ice_stone_shard"
+    },
+    "blue_apricorn": {
+      "textures": "textures/items/apricorns/blueapricorn"
+    },
+    "cooked_blue_apricorn": {
+      "textures": "textures/items/apricorns/cookedblueapricorn"
+    },
+    "white_apricorn": {
+      "textures": "textures/items/apricorns/whiteapricorn"
+    },
+    "cooked_white_apricorn": {
+      "textures": "textures/items/apricorns/cookedwhiteapricorn"
+    },
+    "pink_apricorn": {
+      "textures": "textures/items/apricorns/pinkapricorn"
+    },
+    "cooked_pink_apricorn": {
+      "textures": "textures/items/apricorns/cookedpinkapricorn"
+    },
+    "green_apricorn": {
+      "textures": "textures/items/apricorns/greenapricorn"
+    },
+    "cooked_green_apricorn": {
+      "textures": "textures/items/apricorns/cookedgreenapricorn"
+    },
+    "black_apricorn": {
+      "textures": "textures/items/apricorns/blackapricorn"
+    },
+    "cooked_black_apricorn": {
+      "textures": "textures/items/apricorns/cookedblackapricorn"
+    },
+    "yellow_apricorn": {
+      "textures": "textures/items/apricorns/yellowapricorn"
+    },
+    "cooked_yellow_apricorn": {
+      "textures": "textures/items/apricorns/cookedyellowapricorn"
+    },
+    "red_apricorn": {
+      "textures": "textures/items/apricorns/redapricorn"
+    },
+    "cooked_red_apricorn": {
+      "textures": "textures/items/apricorns/cookedredapricorn"
+    },
+
+    "moon_stone_shard": {
+      "textures": "textures/items/stones/moon_stone_shard"
+    },
+    "ss_thunderaxe": {
+      "textures": "textures/items/tools/thunderaxe"
+    },
+    "sun_stone_shard": {
+      "textures": "textures/items/stones/sun_stone_shard"
+    },
+    "dusk_stone": {
+      "textures": "textures/items/stones/dusk_stone"
+    },
+    "ss_firehammer": {
+      "textures": "textures/items/tools/firehammer"
+    },
+    "ss_sunpickaxe": {
+      "textures": "textures/items/tools/sunpickaxe"
+    },
+    "dusk_stone_shard": {
+      "textures": "textures/items/stones/dusk_stone_shard"
+    },
+    "ss_waterpickaxe": {
+      "textures": "textures/items/tools/waterpickaxe"
+    },
+    "dawn_stone": {
+      "textures": "textures/items/stones/dawn_stone"
+    },
+
+    "shiny_stone": {
+      "textures": "textures/items/stones/shiny_stone"
+    },
+
+    "ss_fireshovel": {
+      "textures": "textures/items/tools/fireshovel"
+    },
+    "thunder_stone_shard": {
+      "textures": "textures/items/stones/thunder_stone_shard"
+    },
+    "water_stone_shard": {
+      "textures": "textures/items/stones/water_stone_shard"
+    },
+    "ss_duskhammer": {
+      "textures": "textures/items/tools/duskhammer"
+    },
+    "ss_thunderpick": {
+      "textures": "textures/items/tools/thunderpick"
+    },
+    "ss_wateraxe": {
+      "textures": "textures/items/tools/wateraxe"
+    },
+    "ss_firepickaxe": {
+      "textures": "textures/items/tools/firepickaxe"
+    },
+    "ss_dawnhammer": {
+      "textures": "textures/items/tools/dawnhammer"
+    },
+    "ss_leafhelmet": {
+      "textures": "textures/items/armor/leafhelmet"
+    },
+    "ss_duskshovel": {
+      "textures": "textures/items/tools/duskshovel"
+    },
+    "ss_dawnaxe": {
+      "textures": "textures/items/tools/dawnaxe"
+    },
+    "ss_moonaxe": {
+      "textures": "textures/items/tools/moonaxe"
+    },
+    "ss_thunderhammer": {
+      "textures": "textures/items/tools/thunderhammer"
+    },
+    "ss_leafhammer": {
+      "textures": "textures/items/tools/leafhammer"
+    },
+    "ss_duskpickaxe": {
+      "textures": "textures/items/tools/duskpickaxe"
+    },
+    "aluminum_ingot": {
+      "textures": "textures/items/aluminum_ingot"
+    },
+    "ss_moonshovel": {
+      "textures": "textures/items/tools/moonshovel"
+    },
+    "ss_leafaxe": {
+      "textures": "textures/items/tools/leafaxe"
+    },
+    "ss_thundershovel": {
+      "textures": "textures/items/tools/thundershovel"
+    },
+    "ss_dusksword": {
+      "textures": "textures/items/tools/dusksword"
+    },
+    "fire_stone_shard": {
+      "textures": "textures/items/stones/fire_stone_shard"
+    },
+    "ss_moonsword": {
+      "textures": "textures/items/tools/moonsword"
+    },
+    "ss_waterhammer": {
+      "textures": "textures/items/tools/waterhammer"
+    },
+    "ss_moonpickaxe": {
+      "textures": "textures/items/tools/moonpickaxe"
+    },
+    "ss_firesword": {
+      "textures": "textures/items/tools/firesword"
+    },
+    "ss_sunhammer": {
+      "textures": "textures/items/tools/sunhammer"
+    },
+    "ss_moonhammer": {
+      "textures": "textures/items/tools/moonhammer"
+    },
+    "ss_thundersword": {
+      "textures": "textures/items/tools/thundersword"
+    },
+    "ss_dawnpickaxe": {
+      "textures": "textures/items/tools/dawnpickaxe"
+    },
+    "ss_dawnsword": {
+      "textures": "textures/items/tools/dawnsword"
+    },
+    "ss_watershovel": {
+      "textures": "textures/items/tools/watershovel"
+    },
+    "ss_watersword": {
+      "textures": "textures/items/tools/watersword"
+    },
+    "ss_sunsword": {
+      "textures": "textures/items/tools/sunsword"
+    },
+    "ss_sunshovel": {
+      "textures": "textures/items/tools/sunshovel"
+    },
+    "dawn_stone_shard": {
+      "textures": "textures/items/stones/dawn_stone_shard"
+    },
+    "ss_leafshovel": {
+      "textures": "textures/items/tools/leafshovel"
+    },
+    "ss_duskhelm": {
+      "textures": "textures/items/armor/duskhelm"
+    },
+    "ss_leafsword": {
+      "textures": "textures/items/tools/leafsword"
+    },
+    "ss_aluminumchestplate": {
+      "textures": "textures/items/armor/aluminumchestplate"
+    },
+    "ss_duskaxe": {
+      "textures": "textures/items/tools/duskaxe"
+    },
+    "ss_dawnshovel": {
+      "textures": "textures/items/tools/dawnshovel"
+    },
+    "ss_sunaxe": {
+      "textures": "textures/items/tools/sunaxe"
+    },
+    "ss_fireaxe": {
+      "textures": "textures/items/tools/fireaxe"
+    },
+    "ss_leafpickaxe": {
+      "textures": "textures/items/tools/leafpickaxe"
+    },
+    "ss_thunderchest": {
+      "textures": "textures/items/armor/thunderchest"
+    },
+    "ss_duskchestplate": {
+      "textures": "textures/items/armor/duskchestplate"
+    },
+    "ss_leafboots": {
+      "textures": "textures/items/armor/leafboots"
+    },
+    "ss_thunderboots": {
+      "textures": "textures/items/armor/thunderboots"
+    },
+    "ss_sunhelmet": {
+      "textures": "textures/items/armor/sunhelmet"
+    },
+    "ss_aluminumhelm": {
+      "textures": "textures/items/armor/aluminumhelm"
+    },
+    "ss_moonhelmet": {
+      "textures": "textures/items/armor/moonhelmet"
+    },
+    "ss_waterboots": {
+      "textures": "textures/items/armor/waterboots"
+    },
+    "ss_dawnhelm": {
+      "textures": "textures/items/armor/dawnhelm"
+    },
+    "ss_aluminumleggings": {
+      "textures": "textures/items/armor/aluminumleggings"
+    },
+    "ss_waterhelmet": {
+      "textures": "textures/items/armor/waterhelmet"
+    },
+    "ss_leafchestplate": {
+      "textures": "textures/items/armor/leafchestplate"
+    },
+    "ss_duskleggings": {
+      "textures": "textures/items/armor/duskleggings"
+    },
+    "ss_duskboots": {
+      "textures": "textures/items/armor/duskboots"
+    },
+    "ss_dawnchestplate": {
+      "textures": "textures/items/armor/dawnchestplate"
+    },
+    "ss_sunboots": {
+      "textures": "textures/items/armor/sunboots"
+    },
+    "ss_firestoneleggings": {
+      "textures": "textures/items/armor/firestoneleggings"
+    },
+    "ss_aluminumboots": {
+      "textures": "textures/items/armor/aluminumboots"
+    },
+    "ss_thunderhelm": {
+      "textures": "textures/items/armor/thunderhelm"
+    },
+    "ss_leafleggings": {
+      "textures": "textures/items/armor/leafleggings"
+    },
+    "ss_waterleggings": {
+      "textures": "textures/items/armor/waterleggings"
+    },
+    "ss_firestoneboots": {
+      "textures": "textures/items/armor/firestoneboots"
+    },
+    "ss_dawnboots": {
+      "textures": "textures/items/armor/dawnboots"
+    },
+    "ss_sunleggings": {
+      "textures": "textures/items/armor/sunleggings"
+    },
+    "ss_waterchestplate": {
+      "textures": "textures/items/armor/waterchestplate"
+    },
+    "ss_firestonehelm": {
+      "textures": "textures/items/armor/firestonehelm"
+    },
+    "ss_thunderleggings": {
+      "textures": "textures/items/armor/thunderleggings"
+    },
+    "ss_firestonechestplate": {
+      "textures": "textures/items/armor/firestonechestplate"
+    },
+    "ss_sunchestplate": {
+      "textures": "textures/items/armor/sunchestplate"
+    },
+    "ss_moonleggings": {
+      "textures": "textures/items/armor/moonleggings"
+    },
+    "ss_moonboots": {
+      "textures": "textures/items/armor/moonboots"
+    },
+    "ss_moonchestplate": {
+      "textures": "textures/items/armor/moonchestplate"
+    },
+    "ss_runningshoes": {
+      "textures": "textures/items/armor/runningshoes"
+    },
+    "ss_oldrunningshoes": {
+      "textures": "textures/items/armor/oldrunningshoes"
+    },
+    "Wailmer_Pail": {
+      "textures": "textures/items/Wailmer_Pail"
+    },
+
+    // Held Battle Items
+    "absorb_bulb": {
+      "textures": "textures/items/held_items/absorbbulb"
+    },
+    "air_balloon": {
+      "textures": "textures/items/held_items/airballoon"
+    },
+    "amulet_coin": {
+      "textures": "textures/items/held_items/amuletcoin"
+    },
+    "assault_vest": {
+      "textures": "textures/items/held_items/assaultvest"
+    },
+    "berry_juice": {
+      "textures": "textures/items/healing_items/berry_juice"
+    },
+    "big_root": {
+      "textures": "textures/items/held_items/bigroot"
+    },
+    "binding_band": {
+      "textures": "textures/items/held_items/bindingband"
+    },
+    "black_belt": {
+      "textures": "textures/items/held_items/blackbelt"
+    },
+    "black_glasses": {
+      "textures": "textures/items/held_items/blackglasses"
+    },
+    "black_sludge": {
+      "textures": "textures/items/held_items/blacksludge"
+    },
+    "bright_powder": {
+      "textures": "textures/items/held_items/brightpowder"
+    },
+    "cell_battery": {
+      "textures": "textures/items/held_items/cellbattery"
+    },
+    "held_charcoal": {
+      "textures": "textures/items/held_items/charcoal"
+    },
+    "choice_band": {
+      "textures": "textures/items/held_items/choiceband"
+    },
+    "choice_scarf": {
+      "textures": "textures/items/held_items/choicescarf"
+    },
+    "choice_specs": {
+      "textures": "textures/items/held_items/choicespecs"
+    },
+    "damp_rock": {
+      "textures": "textures/items/held_items/damprock"
+    },
+    "deep_sea_scale": {
+      "textures": "textures/items/held_items/deepseascale"
+    },
+    "deep_sea_tooth": {
+      "textures": "textures/items/held_items/deepseatooth"
+    },
+    "destiny_knot": {
+      "textures": "textures/items/held_items/destinyknot"
+    },
+    "dragon_fang": {
+      "textures": "textures/items/held_items/dragonfang"
+    },
+    "eject_button": {
+      "textures": "textures/items/held_items/ejectbutton"
+    },
+    "eviolite": {
+      "textures": "textures/items/held_items/eviolite"
+    },
+    "grassy_seed": {
+      "textures": "textures/items/held_items/grassy_seed"
+    },
+    "electric_seed": {
+      "textures": "textures/items/held_items/electric_seed"
+    },
+    "psychic_seed": {
+      "textures": "textures/items/held_items/psychic_seed"
+    },
+    "misty_seed": {
+      "textures": "textures/items/held_items/misty_seed"
+    },
+    "expert_belt": {
+      "textures": "textures/items/held_items/expertbelt"
+    },
+    "flame_orb": {
+      "textures": "textures/items/held_items/flameorb"
+    },
+    "float_stone": {
+      "textures": "textures/items/held_items/floatstone"
+    },
+    "focus_band": {
+      "textures": "textures/items/held_items/focusband"
+    },
+    "focus_sash": {
+      "textures": "textures/items/held_items/focussash"
+    },
+    "grip_claw": {
+      "textures": "textures/items/held_items/gripclaw"
+    },
+    "griseous_orb": {
+      "textures": "textures/items/held_items/griseous_orb"
+    },
+    "hard_stone": {
+      "textures": "textures/items/held_items/hardstone"
+    },
+    "heat_rock": {
+      "textures": "textures/items/held_items/heatrock"
+    },
+    "icy_rock": {
+      "textures": "textures/items/held_items/icyrock"
+    },
+    "iron_ball": {
+      "textures": "textures/items/held_items/ironball"
+    },
+    "kings_rock": {
+      "textures": "textures/items/held_items/kingsrock"
+    },
+    "lagging_tail": {
+      "textures": "textures/items/held_items/laggingtail"
+    },
+    "leek": {
+      "textures": "textures/items/held_items/leek"
+    },
+    "leftovers": {
+      "textures": "textures/items/held_items/leftovers"
+    },
+    "life_orb": {
+      "textures": "textures/items/held_items/lifeorb"
+    },
+    "light_ball": {
+      "textures": "textures/items/held_items/lightball"
+    },
+    "light_clay": {
+      "textures": "textures/items/held_items/lightclay"
+    },
+    "lucky_punch": {
+      "textures": "textures/items/held_items/luckypunch"
+    },
+    "luminous_moss": {
+      "textures": "textures/items/held_items/luminousmoss"
+    },
+    "magnet": {
+      "textures": "textures/items/held_items/magnet"
+    },
+    "mental_herb": {
+      "textures": "textures/items/held_items/mentalherb"
+    },
+    "metal_coat": {
+      "textures": "textures/items/held_items/metalcoat"
+    },
+    "metal_powder": {
+      "textures": "textures/items/held_items/metalpowder"
+    },
+    "metronome": {
+      "textures": "textures/items/held_items/metronome"
+    },
+    "miracle_seed": {
+      "textures": "textures/items/held_items/miracleseed"
+    },
+    "muscle_band": {
+      "textures": "textures/items/held_items/muscleband"
+    },
+    "mystic_water": {
+      "textures": "textures/items/held_items/mysticwater"
+    },
+    "never_melt_ice": {
+      "textures": "textures/items/held_items/nevermeltice"
+    },
+    "pixie_plate": {
+      "textures": "textures/items/held_items/pixieplate"
+    },
+    "poison_barb": {
+      "textures": "textures/items/held_items/poisonbarb"
+    },
+    "power_herb": {
+      "textures": "textures/items/held_items/powerherb"
+    },
+    "quick_claw": {
+      "textures": "textures/items/held_items/quickclaw"
+    },
+    "quick_powder": {
+      "textures": "textures/items/held_items/quickpowder"
+    },
+    "razor_claw": {
+      "textures": "textures/items/held_items/razorclaw"
+    },
+    "razor_fang": {
+      "textures": "textures/items/held_items/razorfang"
+    },
+    "red_card": {
+      "textures": "textures/items/held_items/redcard"
+    },
+    "ring_target": {
+      "textures": "textures/items/held_items/ringtarget"
+    },
+    "rocky_helmet": {
+      "textures": "textures/items/held_items/rockyhelmet"
+    },
+    "safety_goggles": {
+      "textures": "textures/items/held_items/safetygoggles"
+    },
+    "scope_lens": {
+      "textures": "textures/items/held_items/scopelens"
+    },
+    "sharp_beak": {
+      "textures": "textures/items/held_items/sharpbeak"
+    },
+    "shed_shell": {
+      "textures": "textures/items/held_items/shedshell"
+    },
+    "shell_bell": {
+      "textures": "textures/items/held_items/shellbell"
+    },
+    "silk_scarf": {
+      "textures": "textures/items/held_items/silkscarf"
+    },
+    "silver_powder": {
+      "textures": "textures/items/held_items/silverpowder"
+    },
+    "smoke_ball": {
+      "textures": "textures/items/held_items/smokeball"
+    },
+    "smooth_rock": {
+      "textures": "textures/items/held_items/smoothrock"
+    },
+    "held_snowball": {
+      "textures": "textures/items/held_items/snowball"
+    },
+    "soft_sand": {
+      "textures": "textures/items/held_items/softsand"
+    },
+    "soothe_bell": {
+      "textures": "textures/items/held_items/soothebell"
+    },
+    "soul_dew": {
+      "textures": "textures/items/held_items/souldew"
+    },
+    "spell_tag": {
+      "textures": "textures/items/held_items/spelltag"
+    },
+    "sticky_barb": {
+      "textures": "textures/items/held_items/stickybarb"
+    },
+    "thick_club": {
+      "textures": "textures/items/held_items/thickclub"
+    },
+    "toxic_orb": {
+      "textures": "textures/items/held_items/toxicorb"
+    },
+    "twisted_spoon": {
+      "textures": "textures/items/held_items/twistedspoon"
+    },
+    "weakness_policy": {
+      "textures": "textures/items/held_items/weaknesspolicy"
+    },
+    "white_herb": {
+      "textures": "textures/items/held_items/whiteherb"
+    },
+    "wide_lens": {
+      "textures": "textures/items/held_items/widelens"
+    },
+    "wise_glasses": {
+      "textures": "textures/items/held_items/wiseglasses"
+    },
+    "zoom_lens": {
+      "textures": "textures/items/held_items/zoomlens"
+    },
+    "throat_spray": {
+      "textures": "textures/items/held_items/throat_spray"
+    },
+    "room_service": {
+      "textures": "textures/items/held_items/room_service"
+    },
+    "heavy_duty_boots": {
+      "textures": "textures/items/held_items/heavy_duty_boots"
+    },
+
+    // Held Training Items
+    "exp_share": {
+      "textures": "textures/items/held_items/expshare"
+    },
+    "lucky_egg": {
+      "textures": "textures/items/held_items/luckyegg"
+    },
+
+    // Held Incense Items
+    "pure_incense": {
+      "textures": "textures/items/held_items/pureincense"
+    },
+
+    // Held Evo Items
+    "dragon_scale": {
+      "textures": "textures/items/held_items/dragonscale"
+    },
+    "dubious_disc": {
+      "textures": "textures/items/held_items/dubiousdisc"
+    },
+    "electirizer": {
+      "textures": "textures/items/held_items/electirizer"
+    },
+    "everstone": {
+      "textures": "textures/items/held_items/everstone"
+    },
+    "magmarizer": {
+      "textures": "textures/items/held_items/magmarizer"
+    },
+    "oval_stone": {
+      "textures": "textures/items/held_items/ovalstone"
+    },
+    "prism_scale": {
+      "textures": "textures/items/held_items/prismscale"
+    },
+    "protector": {
+      "textures": "textures/items/held_items/protector"
+    },
+    "reaper_cloth": {
+      "textures": "textures/items/held_items/reapercloth"
+    },
+    "sachet": {
+      "textures": "textures/items/held_items/sachet"
+    },
+    "up_grade": {
+      "textures": "textures/items/held_items/up_grade"
+    },
+    "whipped_dream": {
+      "textures": "textures/items/held_items/whipped_dream"
+    },
+    "black_augurite": {
+      "textures": "textures/items/held_items/black_augurite"
+    },
+    "peat_block": {
+      "textures": "textures/items/held_items/peat_block"
+    },
+    "tart_apple": {
+      "textures": "textures/items/held_items/tart_apple"
+    },
+    "sweet_apple": {
+      "textures": "textures/items/held_items/sweet_apple"
+    },
+    "cracked_pot": {
+      "textures": "textures/items/held_items/cracked_pot"
+    },
+    "auspicious_armor": {
+      "textures": "textures/items/held_items/auspicious_armor"
+    },
+    "malicious_armor": {
+      "textures": "textures/items/held_items/malicious_armor"
+    },
+    // --- Gems ---
+    "bug_gem": {
+      "textures": "textures/items/held_items/buggem"
+    },
+    "dark_gem": {
+      "textures": "textures/items/held_items/darkgem"
+    },
+    "dragon_gem": {
+      "textures": "textures/items/held_items/dragongem"
+    },
+    "electric_gem": {
+      "textures": "textures/items/held_items/electricgem"
+    },
+    "fairy_gem": {
+      "textures": "textures/items/held_items/fairygem"
+    },
+    "fighting_gem": {
+      "textures": "textures/items/held_items/fightinggem"
+    },
+    "fire_gem": {
+      "textures": "textures/items/held_items/firegem"
+    },
+    "flying_gem": {
+      "textures": "textures/items/held_items/flyinggem"
+    },
+    "ghost_gem": {
+      "textures": "textures/items/held_items/ghostgem"
+    },
+    "grass_gem": {
+      "textures": "textures/items/held_items/grassgem"
+    },
+    "ground_gem": {
+      "textures": "textures/items/held_items/groundgem"
+    },
+    "ice_gem": {
+      "textures": "textures/items/held_items/icegem"
+    },
+    "normal_gem": {
+      "textures": "textures/items/held_items/normalgem"
+    },
+    "poison_gem": {
+      "textures": "textures/items/held_items/poisongem"
+    },
+    "psychic_gem": {
+      "textures": "textures/items/held_items/psychicgem"
+    },
+    "rock_gem": {
+      "textures": "textures/items/held_items/rockgem"
+    },
+    "steel_gem": {
+      "textures": "textures/items/held_items/steelgem"
+    },
+    "water_gem": {
+      "textures": "textures/items/held_items/watergem"
+    },
+
+    // --- Crate Keys ---
+    "event_crate_key": {
+      "textures": "textures/items/crate_keys/event"
+    },
+    "great_crate_key": {
+      "textures": "textures/items/crate_keys/great"
+    },
+    "master_crate_key": {
+      "textures": "textures/items/crate_keys/master"
+    },
+    "poke_crate_key": {
+      "textures": "textures/items/crate_keys/poke"
+    },
+    "ultra_crate_key": {
+      "textures": "textures/items/crate_keys/ultra"
+    },
+    "random_legendary_crate_key": {
+      "textures": "textures/items/crate_keys/random_legendary"
+    },
+    "random_pokemon_crate_key": {
+      "textures": "textures/items/crate_keys/random_pokemon"
+    },
+    "random_shiny_crate_key": {
+      "textures": "textures/items/crate_keys/random_shiny"
+    },
+    "random_shiny_legendary_crate_key": {
+      "textures": "textures/items/crate_keys/random_shiny_legendary"
+    },
+
+    // --- Ball Item Textures ---
+    "beastball": {
+      "textures": "textures/items/ball/beast_ball"
+    },
+    "cherishball": {
+      "textures": "textures/items/ball/cherish_ball"
+    },
+    "dreamball": {
+      "textures": "textures/items/ball/dream_ball"
+    },
+    "duskball": {
+      "textures": "textures/items/ball/dusk_ball"
+    },
+    "diveball": {
+      "textures": "textures/items/ball/dive_ball"
+    },
+    "fastball": {
+      "textures": "textures/items/ball/fast_ball"
+    },
+    "friendball": {
+      "textures": "textures/items/ball/friend_ball"
+    },
+    "greatball": {
+      "textures": "textures/items/ball/great_ball"
+    },
+    "gsball": {
+      "textures": "textures/items/ball/gs_ball"
+    },
+    "healball": {
+      "textures": "textures/items/ball/heal_ball"
+    },
+    "heavyball": {
+      "textures": "textures/items/ball/heavy_ball"
+    },
+    "levelball": {
+      "textures": "textures/items/ball/level_ball"
+    },
+    "loveball": {
+      "textures": "textures/items/ball/love_ball"
+    },
+    "lureball": {
+      "textures": "textures/items/ball/lure_ball"
+    },
+    "luxuryball": {
+      "textures": "textures/items/ball/luxury_ball"
+    },
+    "masterball": {
+      "textures": "textures/items/ball/master_ball"
+    },
+    "moonball": {
+      "textures": "textures/items/ball/moon_ball"
+    },
+    "nestball": {
+      "textures": "textures/items/ball/nest_ball"
+    },
+    "netball": {
+      "textures": "textures/items/ball/net_ball"
+    },
+    "parkball": {
+      "textures": "textures/items/ball/park_ball"
+    },
+    "pokeball": {
+      "textures": "textures/items/ball/poke_ball"
+    },
+    "premierball": {
+      "textures": "textures/items/ball/premier_ball"
+    },
+    "quickball": {
+      "textures": "textures/items/ball/quick_ball"
+    },
+    "repeatball": {
+      "textures": "textures/items/ball/repeat_ball"
+    },
+    "safariball": {
+      "textures": "textures/items/ball/safari_ball"
+    },
+    "sportball": {
+      "textures": "textures/items/ball/sport_ball"
+    },
+    "timerball": {
+      "textures": "textures/items/ball/timer_ball"
+    },
+    "ultraball": {
+      "textures": "textures/items/ball/ultra_ball"
+    },
+
+    "dive_ball_lid": {
+      "textures": "textures/items/ball/lid/dive_ball_lid"
+    },
+    "dusk_ball_lid": {
+      "textures": "textures/items/ball/lid/dusk_ball_lid"
+    },
+    "fast_ball_lid": {
+      "textures": "textures/items/ball/lid/fast_ball_lid"
+    },
+    "friend_ball_lid": {
+      "textures": "textures/items/ball/lid/friend_ball_lid"
+    },
+    "great_ball_lid": {
+      "textures": "textures/items/ball/lid/great_ball_lid"
+    },
+    "heal_ball_lid": {
+      "textures": "textures/items/ball/lid/heal_ball_lid"
+    },
+    "heavy_ball_lid": {
+      "textures": "textures/items/ball/lid/heavy_ball_lid"
+    },
+    "level_ball_lid": {
+      "textures": "textures/items/ball/lid/level_ball_lid"
+    },
+    "love_ball_lid": {
+      "textures": "textures/items/ball/lid/love_ball_lid"
+    },
+    "lure_ball_lid": {
+      "textures": "textures/items/ball/lid/lure_ball_lid"
+    },
+    "luxury_ball_lid": {
+      "textures": "textures/items/ball/lid/luxury_ball_lid"
+    },
+    "moon_ball_lid": {
+      "textures": "textures/items/ball/lid/moon_ball_lid"
+    },
+    "nest_ball_lid": {
+      "textures": "textures/items/ball/lid/nest_ball_lid"
+    },
+    "net_ball_lid": {
+      "textures": "textures/items/ball/lid/net_ball_lid"
+    },
+    "park_ball_lid": {
+      "textures": "textures/items/ball/lid/park_ball_lid"
+    },
+    "poke_ball_lid": {
+      "textures": "textures/items/ball/lid/poke_ball_lid"
+    },
+    "premier_ball_lid": {
+      "textures": "textures/items/ball/lid/premier_ball_lid"
+    },
+    "quick_ball_lid": {
+      "textures": "textures/items/ball/lid/quick_ball_lid"
+    },
+    "repeat_ball_lid": {
+      "textures": "textures/items/ball/lid/repeat_ball_lid"
+    },
+    "safari_ball_lid": {
+      "textures": "textures/items/ball/lid/safari_ball_lid"
+    },
+    "sport_ball_lid": {
+      "textures": "textures/items/ball/lid/sport_ball_lid"
+    },
+    "timer_ball_lid": {
+      "textures": "textures/items/ball/lid/timer_ball_lid"
+    },
+    "ultra_ball_lid": {
+      "textures": "textures/items/ball/lid/ultra_ball_lid"
+    },
+
+    // --- Pokemon Item Textures ---
+    "bulbasaur": {
+      "textures": "textures/sprites/bulbasaur"
+    },
+    "ivysaur": {
+      "textures": "textures/sprites/ivysaur"
+    },
+    "venusaur": {
+      "textures": "textures/sprites/venusaur"
+    },
+    "charmander": {
+      "textures": "textures/sprites/charmander"
+    },
+    "charmeleon": {
+      "textures": "textures/sprites/charmeleon"
+    },
+    "charizard": {
+      "textures": "textures/sprites/charizard"
+    },
+    "squirtle": {
+      "textures": "textures/sprites/squirtle"
+    },
+    "wartortle": {
+      "textures": "textures/sprites/wartortle"
+    },
+    "blastoise": {
+      "textures": "textures/sprites/blastoise"
+    },
+    "caterpie": {
+      "textures": "textures/sprites/caterpie"
+    },
+    "metapod": {
+      "textures": "textures/sprites/metapod"
+    },
+    "butterfree": {
+      "textures": "textures/sprites/butterfree"
+    },
+    "weedle": {
+      "textures": "textures/sprites/weedle"
+    },
+    "kakuna": {
+      "textures": "textures/sprites/kakuna"
+    },
+    "beedrill": {
+      "textures": "textures/sprites/beedrill"
+    },
+    "pidgey": {
+      "textures": "textures/sprites/pidgey"
+    },
+    "pidgeotto": {
+      "textures": "textures/sprites/pidgeotto"
+    },
+    "pidgeot": {
+      "textures": "textures/sprites/pidgeot"
+    },
+    "rattata": {
+      "textures": "textures/sprites/rattata"
+    },
+    "raticate": {
+      "textures": "textures/sprites/raticate"
+    },
+    "spearow": {
+      "textures": "textures/sprites/spearow"
+    },
+    "fearow": {
+      "textures": "textures/sprites/fearow"
+    },
+    "ekans": {
+      "textures": "textures/sprites/ekans"
+    },
+    "arbok": {
+      "textures": "textures/sprites/arbok"
+    },
+    "pikachu": {
+      "textures": "textures/sprites/pikachu"
+    },
+    "raichu": {
+      "textures": "textures/sprites/raichu"
+    },
+    "sandshrew": {
+      "textures": "textures/sprites/sandshrew"
+    },
+    "sandslash": {
+      "textures": "textures/sprites/sandslash"
+    },
+    "nidoranf": {
+      "textures": "textures/sprites/nidoranf"
+    },
+    "nidorina": {
+      "textures": "textures/sprites/nidorina"
+    },
+    "nidoqueen": {
+      "textures": "textures/sprites/nidoqueen"
+    },
+    "nidoranm": {
+      "textures": "textures/sprites/nidoranm"
+    },
+    "nidorino": {
+      "textures": "textures/sprites/nidorino"
+    },
+    "nidoking": {
+      "textures": "textures/sprites/nidoking"
+    },
+    "clefairy": {
+      "textures": "textures/sprites/clefairy"
+    },
+    "clefable": {
+      "textures": "textures/sprites/clefable"
+    },
+    "vulpix": {
+      "textures": "textures/sprites/vulpix"
+    },
+    "ninetales": {
+      "textures": "textures/sprites/ninetales"
+    },
+    "jigglypuff": {
+      "textures": "textures/sprites/jigglypuff"
+    },
+    "wigglytuff": {
+      "textures": "textures/sprites/wigglytuff"
+    },
+    "zubat": {
+      "textures": "textures/sprites/zubat"
+    },
+    "golbat": {
+      "textures": "textures/sprites/golbat"
+    },
+    "oddish": {
+      "textures": "textures/sprites/oddish"
+    },
+    "gloom": {
+      "textures": "textures/sprites/gloom"
+    },
+    "vileplume": {
+      "textures": "textures/sprites/vileplume"
+    },
+    "paras": {
+      "textures": "textures/sprites/paras"
+    },
+    "parasect": {
+      "textures": "textures/sprites/parasect"
+    },
+    "venonat": {
+      "textures": "textures/sprites/venonat"
+    },
+    "venomoth": {
+      "textures": "textures/sprites/venomoth"
+    },
+    "diglett": {
+      "textures": "textures/sprites/diglett"
+    },
+    "dugtrio": {
+      "textures": "textures/sprites/dugtrio"
+    },
+    "meowth": {
+      "textures": "textures/sprites/meowth"
+    },
+    "persian": {
+      "textures": "textures/sprites/persian"
+    },
+    "psyduck": {
+      "textures": "textures/sprites/psyduck"
+    },
+    "golduck": {
+      "textures": "textures/sprites/golduck"
+    },
+    "mankey": {
+      "textures": "textures/sprites/mankey"
+    },
+    "primeape": {
+      "textures": "textures/sprites/primeape"
+    },
+    "growlithe": {
+      "textures": "textures/sprites/growlithe"
+    },
+    "arcanine": {
+      "textures": "textures/sprites/arcanine"
+    },
+    "poliwag": {
+      "textures": "textures/sprites/poliwag"
+    },
+    "poliwhirl": {
+      "textures": "textures/sprites/poliwhirl"
+    },
+    "poliwrath": {
+      "textures": "textures/sprites/poliwrath"
+    },
+    "abra": {
+      "textures": "textures/sprites/abra"
+    },
+    "kadabra": {
+      "textures": "textures/sprites/kadabra"
+    },
+    "alakazam": {
+      "textures": "textures/sprites/alakazam"
+    },
+    "machop": {
+      "textures": "textures/sprites/machop"
+    },
+    "machoke": {
+      "textures": "textures/sprites/machoke"
+    },
+    "machamp": {
+      "textures": "textures/sprites/machamp"
+    },
+    "bellsprout": {
+      "textures": "textures/sprites/bellsprout"
+    },
+    "weepinbell": {
+      "textures": "textures/sprites/weepinbell"
+    },
+    "victreebel": {
+      "textures": "textures/sprites/victreebel"
+    },
+    "tentacool": {
+      "textures": "textures/sprites/tentacool"
+    },
+    "tentacruel": {
+      "textures": "textures/sprites/tentacruel"
+    },
+    "geodude": {
+      "textures": "textures/sprites/geodude"
+    },
+    "graveler": {
+      "textures": "textures/sprites/graveler"
+    },
+    "golem": {
+      "textures": "textures/sprites/golem"
+    },
+    "ponyta": {
+      "textures": "textures/sprites/ponyta"
+    },
+    "rapidash": {
+      "textures": "textures/sprites/rapidash"
+    },
+    "slowpoke": {
+      "textures": "textures/sprites/slowpoke"
+    },
+    "slowbro": {
+      "textures": "textures/sprites/slowbro"
+    },
+    "magnemite": {
+      "textures": "textures/sprites/magnemite"
+    },
+    "magneton": {
+      "textures": "textures/sprites/magneton"
+    },
+    "farfetchd": {
+      "textures": "textures/sprites/farfetchd"
+    },
+    "doduo": {
+      "textures": "textures/sprites/doduo"
+    },
+    "dodrio": {
+      "textures": "textures/sprites/dodrio"
+    },
+    "seel": {
+      "textures": "textures/sprites/seel"
+    },
+    "dewgong": {
+      "textures": "textures/sprites/dewgong"
+    },
+    "grimer": {
+      "textures": "textures/sprites/grimer"
+    },
+    "muk": {
+      "textures": "textures/sprites/muk"
+    },
+    "shellder": {
+      "textures": "textures/sprites/shellder"
+    },
+    "cloyster": {
+      "textures": "textures/sprites/cloyster"
+    },
+    "gastly": {
+      "textures": "textures/sprites/gastly"
+    },
+    "haunter": {
+      "textures": "textures/sprites/haunter"
+    },
+    "gengar": {
+      "textures": "textures/sprites/gengar"
+    },
+    "onix": {
+      "textures": "textures/sprites/onix"
+    },
+    "drowzee": {
+      "textures": "textures/sprites/drowzee"
+    },
+    "hypno": {
+      "textures": "textures/sprites/hypno"
+    },
+    "krabby": {
+      "textures": "textures/sprites/krabby"
+    },
+    "kingler": {
+      "textures": "textures/sprites/kingler"
+    },
+    "voltorb": {
+      "textures": "textures/sprites/voltorb"
+    },
+    "electrode": {
+      "textures": "textures/sprites/electrode"
+    },
+    "exeggcute": {
+      "textures": "textures/sprites/exeggcute"
+    },
+    "exeggutor": {
+      "textures": "textures/sprites/exeggutor"
+    },
+    "cubone": {
+      "textures": "textures/sprites/cubone"
+    },
+    "marowak": {
+      "textures": "textures/sprites/marowak"
+    },
+    "hitmonlee": {
+      "textures": "textures/sprites/hitmonlee"
+    },
+    "hitmonchan": {
+      "textures": "textures/sprites/hitmonchan"
+    },
+    "lickitung": {
+      "textures": "textures/sprites/lickitung"
+    },
+    "koffing": {
+      "textures": "textures/sprites/koffing"
+    },
+    "weezing": {
+      "textures": "textures/sprites/weezing"
+    },
+    "rhyhorn": {
+      "textures": "textures/sprites/rhyhorn"
+    },
+    "rhydon": {
+      "textures": "textures/sprites/rhydon"
+    },
+    "chansey": {
+      "textures": "textures/sprites/chansey"
+    },
+    "tangela": {
+      "textures": "textures/sprites/tangela"
+    },
+    "kangaskhan": {
+      "textures": "textures/sprites/kangaskhan"
+    },
+    "horsea": {
+      "textures": "textures/sprites/horsea"
+    },
+    "seadra": {
+      "textures": "textures/sprites/seadra"
+    },
+    "goldeen": {
+      "textures": "textures/sprites/goldeen"
+    },
+    "seaking": {
+      "textures": "textures/sprites/seaking"
+    },
+    "staryu": {
+      "textures": "textures/sprites/staryu"
+    },
+    "starmie": {
+      "textures": "textures/sprites/starmie"
+    },
+    "mrmime": {
+      "textures": "textures/sprites/mrmime"
+    },
+    "scyther": {
+      "textures": "textures/sprites/scyther"
+    },
+    "jynx": {
+      "textures": "textures/sprites/jynx"
+    },
+    "electabuzz": {
+      "textures": "textures/sprites/electabuzz"
+    },
+    "magmar": {
+      "textures": "textures/sprites/magmar"
+    },
+    "pinsir": {
+      "textures": "textures/sprites/pinsir"
+    },
+    "tauros": {
+      "textures": "textures/sprites/tauros"
+    },
+    "magikarp": {
+      "textures": "textures/sprites/magikarp"
+    },
+    "gyarados": {
+      "textures": "textures/sprites/gyarados"
+    },
+    "lapras": {
+      "textures": "textures/sprites/lapras"
+    },
+    "ditto": {
+      "textures": "textures/sprites/ditto"
+    },
+    "eevee": {
+      "textures": "textures/sprites/eevee"
+    },
+    "vaporeon": {
+      "textures": "textures/sprites/vaporeon"
+    },
+    "jolteon": {
+      "textures": "textures/sprites/jolteon"
+    },
+    "flareon": {
+      "textures": "textures/sprites/flareon"
+    },
+    "porygon": {
+      "textures": "textures/sprites/porygon"
+    },
+    "omanyte": {
+      "textures": "textures/sprites/omanyte"
+    },
+    "omastar": {
+      "textures": "textures/sprites/omastar"
+    },
+    "kabuto": {
+      "textures": "textures/sprites/kabuto"
+    },
+    "kabutops": {
+      "textures": "textures/sprites/kabutops"
+    },
+    "aerodactyl": {
+      "textures": "textures/sprites/aerodactyl"
+    },
+    "snorlax": {
+      "textures": "textures/sprites/snorlax"
+    },
+    "articuno": {
+      "textures": "textures/sprites/articuno"
+    },
+    "zapdos": {
+      "textures": "textures/sprites/zapdos"
+    },
+    "moltres": {
+      "textures": "textures/sprites/moltres"
+    },
+    "dratini": {
+      "textures": "textures/sprites/dratini"
+    },
+    "dragonair": {
+      "textures": "textures/sprites/dragonair"
+    },
+    "dragonite": {
+      "textures": "textures/sprites/dragonite"
+    },
+    "mewtwo": {
+      "textures": "textures/sprites/mewtwo"
+    },
+    "mew": {
+      "textures": "textures/sprites/mew"
+    },
+    "chikorita": {
+      "textures": "textures/sprites/chikorita"
+    },
+    "bayleef": {
+      "textures": "textures/sprites/bayleef"
+    },
+    "meganium": {
+      "textures": "textures/sprites/meganium"
+    },
+    "cyndaquil": {
+      "textures": "textures/sprites/cyndaquil"
+    },
+    "quilava": {
+      "textures": "textures/sprites/quilava"
+    },
+    "typhlosion": {
+      "textures": "textures/sprites/typhlosion"
+    },
+    "totodile": {
+      "textures": "textures/sprites/totodile"
+    },
+    "croconaw": {
+      "textures": "textures/sprites/croconaw"
+    },
+    "feraligatr": {
+      "textures": "textures/sprites/feraligatr"
+    },
+    "sentret": {
+      "textures": "textures/sprites/sentret"
+    },
+    "furret": {
+      "textures": "textures/sprites/furret"
+    },
+    "hoothoot": {
+      "textures": "textures/sprites/hoothoot"
+    },
+    "noctowl": {
+      "textures": "textures/sprites/noctowl"
+    },
+    "ledyba": {
+      "textures": "textures/sprites/ledyba"
+    },
+    "ledian": {
+      "textures": "textures/sprites/ledian"
+    },
+    "spinarak": {
+      "textures": "textures/sprites/spinarak"
+    },
+    "ariados": {
+      "textures": "textures/sprites/ariados"
+    },
+    "crobat": {
+      "textures": "textures/sprites/crobat"
+    },
+    "chinchou": {
+      "textures": "textures/sprites/chinchou"
+    },
+    "lanturn": {
+      "textures": "textures/sprites/lanturn"
+    },
+    "pichu": {
+      "textures": "textures/sprites/pichu"
+    },
+    "cleffa": {
+      "textures": "textures/sprites/cleffa"
+    },
+    "igglybuff": {
+      "textures": "textures/sprites/igglybuff"
+    },
+    "togepi": {
+      "textures": "textures/sprites/togepi"
+    },
+    "togetic": {
+      "textures": "textures/sprites/togetic"
+    },
+    "natu": {
+      "textures": "textures/sprites/natu"
+    },
+    "xatu": {
+      "textures": "textures/sprites/xatu"
+    },
+    "mareep": {
+      "textures": "textures/sprites/mareep"
+    },
+    "flaaffy": {
+      "textures": "textures/sprites/flaaffy"
+    },
+    "ampharos": {
+      "textures": "textures/sprites/ampharos"
+    },
+    "bellossom": {
+      "textures": "textures/sprites/bellossom"
+    },
+    "marill": {
+      "textures": "textures/sprites/marill"
+    },
+    "azumarill": {
+      "textures": "textures/sprites/azumarill"
+    },
+    "sudowoodo": {
+      "textures": "textures/sprites/sudowoodo"
+    },
+    "politoed": {
+      "textures": "textures/sprites/politoed"
+    },
+    "hoppip": {
+      "textures": "textures/sprites/hoppip"
+    },
+    "skiploom": {
+      "textures": "textures/sprites/skiploom"
+    },
+    "jumpluff": {
+      "textures": "textures/sprites/jumpluff"
+    },
+    "aipom": {
+      "textures": "textures/sprites/aipom"
+    },
+    "sunkern": {
+      "textures": "textures/sprites/sunkern"
+    },
+    "sunflora": {
+      "textures": "textures/sprites/sunflora"
+    },
+    "yanma": {
+      "textures": "textures/sprites/yanma"
+    },
+    "wooper": {
+      "textures": "textures/sprites/wooper"
+    },
+    "quagsire": {
+      "textures": "textures/sprites/quagsire"
+    },
+    "espeon": {
+      "textures": "textures/sprites/espeon"
+    },
+    "umbreon": {
+      "textures": "textures/sprites/umbreon"
+    },
+    "murkrow": {
+      "textures": "textures/sprites/murkrow"
+    },
+    "slowking": {
+      "textures": "textures/sprites/slowking"
+    },
+    "misdreavus": {
+      "textures": "textures/sprites/misdreavus"
+    },
+    "unown": {
+      "textures": "textures/sprites/unown"
+    },
+    "wobbuffet": {
+      "textures": "textures/sprites/wobbuffet"
+    },
+    "girafarig": {
+      "textures": "textures/sprites/girafarig"
+    },
+    "pineco": {
+      "textures": "textures/sprites/pineco"
+    },
+    "forretress": {
+      "textures": "textures/sprites/forretress"
+    },
+    "dunsparce": {
+      "textures": "textures/sprites/dunsparce"
+    },
+    "gligar": {
+      "textures": "textures/sprites/gligar"
+    },
+    "steelix": {
+      "textures": "textures/sprites/steelix"
+    },
+    "snubbull": {
+      "textures": "textures/sprites/snubbull"
+    },
+    "granbull": {
+      "textures": "textures/sprites/granbull"
+    },
+    "qwilfish": {
+      "textures": "textures/sprites/qwilfish"
+    },
+    "scizor": {
+      "textures": "textures/sprites/scizor"
+    },
+    "shuckle": {
+      "textures": "textures/sprites/shuckle"
+    },
+    "heracross": {
+      "textures": "textures/sprites/heracross"
+    },
+    "sneasel": {
+      "textures": "textures/sprites/sneasel"
+    },
+    "teddiursa": {
+      "textures": "textures/sprites/teddiursa"
+    },
+    "ursaring": {
+      "textures": "textures/sprites/ursaring"
+    },
+    "slugma": {
+      "textures": "textures/sprites/slugma"
+    },
+    "magcargo": {
+      "textures": "textures/sprites/magcargo"
+    },
+    "swinub": {
+      "textures": "textures/sprites/swinub"
+    },
+    "piloswine": {
+      "textures": "textures/sprites/piloswine"
+    },
+    "corsola": {
+      "textures": "textures/sprites/corsola"
+    },
+    "remoraid": {
+      "textures": "textures/sprites/remoraid"
+    },
+    "octillery": {
+      "textures": "textures/sprites/octillery"
+    },
+    "delibird": {
+      "textures": "textures/sprites/delibird"
+    },
+    "mantine": {
+      "textures": "textures/sprites/mantine"
+    },
+    "skarmory": {
+      "textures": "textures/sprites/skarmory"
+    },
+    "houndour": {
+      "textures": "textures/sprites/houndour"
+    },
+    "houndoom": {
+      "textures": "textures/sprites/houndoom"
+    },
+    "kingdra": {
+      "textures": "textures/sprites/kingdra"
+    },
+    "phanpy": {
+      "textures": "textures/sprites/phanpy"
+    },
+    "donphan": {
+      "textures": "textures/sprites/donphan"
+    },
+    "porygon2": {
+      "textures": "textures/sprites/porygon2"
+    },
+    "stantler": {
+      "textures": "textures/sprites/stantler"
+    },
+    "smeargle": {
+      "textures": "textures/sprites/smeargle"
+    },
+    "tyrogue": {
+      "textures": "textures/sprites/tyrogue"
+    },
+    "hitmontop": {
+      "textures": "textures/sprites/hitmontop"
+    },
+    "smoochum": {
+      "textures": "textures/sprites/smoochum"
+    },
+    "elekid": {
+      "textures": "textures/sprites/elekid"
+    },
+    "magby": {
+      "textures": "textures/sprites/magby"
+    },
+    "miltank": {
+      "textures": "textures/sprites/miltank"
+    },
+    "blissey": {
+      "textures": "textures/sprites/blissey"
+    },
+    "raikou": {
+      "textures": "textures/sprites/raikou"
+    },
+    "entei": {
+      "textures": "textures/sprites/entei"
+    },
+    "suicune": {
+      "textures": "textures/sprites/suicune"
+    },
+    "larvitar": {
+      "textures": "textures/sprites/larvitar"
+    },
+    "pupitar": {
+      "textures": "textures/sprites/pupitar"
+    },
+    "tyranitar": {
+      "textures": "textures/sprites/tyranitar"
+    },
+    "lugia": {
+      "textures": "textures/sprites/lugia"
+    },
+    "hooh": {
+      "textures": "textures/sprites/hooh"
+    },
+    "celebi": {
+      "textures": "textures/sprites/celebi"
+    },
+    "treecko": {
+      "textures": "textures/sprites/treecko"
+    },
+    "grovyle": {
+      "textures": "textures/sprites/grovyle"
+    },
+    "sceptile": {
+      "textures": "textures/sprites/sceptile"
+    },
+    "torchic": {
+      "textures": "textures/sprites/torchic"
+    },
+    "combusken": {
+      "textures": "textures/sprites/combusken"
+    },
+    "blaziken": {
+      "textures": "textures/sprites/blaziken"
+    },
+    "mudkip": {
+      "textures": "textures/sprites/mudkip"
+    },
+    "marshtomp": {
+      "textures": "textures/sprites/marshtomp"
+    },
+    "swampert": {
+      "textures": "textures/sprites/swampert"
+    },
+    "poochyena": {
+      "textures": "textures/sprites/poochyena"
+    },
+    "mightyena": {
+      "textures": "textures/sprites/mightyena"
+    },
+    "zigzagoon": {
+      "textures": "textures/sprites/zigzagoon"
+    },
+    "linoone": {
+      "textures": "textures/sprites/linoone"
+    },
+    "wurmple": {
+      "textures": "textures/sprites/wurmple"
+    },
+    "silcoon": {
+      "textures": "textures/sprites/silcoon"
+    },
+    "beautifly": {
+      "textures": "textures/sprites/beautifly"
+    },
+    "cascoon": {
+      "textures": "textures/sprites/cascoon"
+    },
+    "dustox": {
+      "textures": "textures/sprites/dustox"
+    },
+    "lotad": {
+      "textures": "textures/sprites/lotad"
+    },
+    "lombre": {
+      "textures": "textures/sprites/lombre"
+    },
+    "ludicolo": {
+      "textures": "textures/sprites/ludicolo"
+    },
+    "seedot": {
+      "textures": "textures/sprites/seedot"
+    },
+    "nuzleaf": {
+      "textures": "textures/sprites/nuzleaf"
+    },
+    "shiftry": {
+      "textures": "textures/sprites/shiftry"
+    },
+    "taillow": {
+      "textures": "textures/sprites/taillow"
+    },
+    "swellow": {
+      "textures": "textures/sprites/swellow"
+    },
+    "wingull": {
+      "textures": "textures/sprites/wingull"
+    },
+    "pelipper": {
+      "textures": "textures/sprites/pelipper"
+    },
+    "ralts": {
+      "textures": "textures/sprites/ralts"
+    },
+    "kirlia": {
+      "textures": "textures/sprites/kirlia"
+    },
+    "gardevoir": {
+      "textures": "textures/sprites/gardevoir"
+    },
+    "surskit": {
+      "textures": "textures/sprites/surskit"
+    },
+    "masquerain": {
+      "textures": "textures/sprites/masquerain"
+    },
+    "shroomish": {
+      "textures": "textures/sprites/shroomish"
+    },
+    "breloom": {
+      "textures": "textures/sprites/breloom"
+    },
+    "slakoth": {
+      "textures": "textures/sprites/slakoth"
+    },
+    "vigoroth": {
+      "textures": "textures/sprites/vigoroth"
+    },
+    "slaking": {
+      "textures": "textures/sprites/slaking"
+    },
+    "nincada": {
+      "textures": "textures/sprites/nincada"
+    },
+    "ninjask": {
+      "textures": "textures/sprites/ninjask"
+    },
+    "shedinja": {
+      "textures": "textures/sprites/shedinja"
+    },
+    "whismur": {
+      "textures": "textures/sprites/whismur"
+    },
+    "loudred": {
+      "textures": "textures/sprites/loudred"
+    },
+    "exploud": {
+      "textures": "textures/sprites/exploud"
+    },
+    "makuhita": {
+      "textures": "textures/sprites/makuhita"
+    },
+    "hariyama": {
+      "textures": "textures/sprites/hariyama"
+    },
+    "azurill": {
+      "textures": "textures/sprites/azurill"
+    },
+    "nosepass": {
+      "textures": "textures/sprites/nosepass"
+    },
+    "skitty": {
+      "textures": "textures/sprites/skitty"
+    },
+    "delcatty": {
+      "textures": "textures/sprites/delcatty"
+    },
+    "sableye": {
+      "textures": "textures/sprites/sableye"
+    },
+    "mawile": {
+      "textures": "textures/sprites/mawile"
+    },
+    "aron": {
+      "textures": "textures/sprites/aron"
+    },
+    "lairon": {
+      "textures": "textures/sprites/lairon"
+    },
+    "aggron": {
+      "textures": "textures/sprites/aggron"
+    },
+    "meditite": {
+      "textures": "textures/sprites/meditite"
+    },
+    "medicham": {
+      "textures": "textures/sprites/medicham"
+    },
+    "electrike": {
+      "textures": "textures/sprites/electrike"
+    },
+    "manectric": {
+      "textures": "textures/sprites/manectric"
+    },
+    "plusle": {
+      "textures": "textures/sprites/plusle"
+    },
+    "minun": {
+      "textures": "textures/sprites/minun"
+    },
+    "volbeat": {
+      "textures": "textures/sprites/volbeat"
+    },
+    "illumise": {
+      "textures": "textures/sprites/illumise"
+    },
+    "roselia": {
+      "textures": "textures/sprites/roselia"
+    },
+    "gulpin": {
+      "textures": "textures/sprites/gulpin"
+    },
+    "swalot": {
+      "textures": "textures/sprites/swalot"
+    },
+    "carvanha": {
+      "textures": "textures/sprites/carvanha"
+    },
+    "sharpedo": {
+      "textures": "textures/sprites/sharpedo"
+    },
+    "wailmer": {
+      "textures": "textures/sprites/wailmer"
+    },
+    "wailord": {
+      "textures": "textures/sprites/wailord"
+    },
+    "numel": {
+      "textures": "textures/sprites/numel"
+    },
+    "camerupt": {
+      "textures": "textures/sprites/camerupt"
+    },
+    "torkoal": {
+      "textures": "textures/sprites/torkoal"
+    },
+    "spoink": {
+      "textures": "textures/sprites/spoink"
+    },
+    "grumpig": {
+      "textures": "textures/sprites/grumpig"
+    },
+    "spinda": {
+      "textures": "textures/sprites/spinda"
+    },
+    "trapinch": {
+      "textures": "textures/sprites/trapinch"
+    },
+    "vibrava": {
+      "textures": "textures/sprites/vibrava"
+    },
+    "flygon": {
+      "textures": "textures/sprites/flygon"
+    },
+    "cacnea": {
+      "textures": "textures/sprites/cacnea"
+    },
+    "cacturne": {
+      "textures": "textures/sprites/cacturne"
+    },
+    "swablu": {
+      "textures": "textures/sprites/swablu"
+    },
+    "altaria": {
+      "textures": "textures/sprites/altaria"
+    },
+    "zangoose": {
+      "textures": "textures/sprites/zangoose"
+    },
+    "seviper": {
+      "textures": "textures/sprites/seviper"
+    },
+    "lunatone": {
+      "textures": "textures/sprites/lunatone"
+    },
+    "solrock": {
+      "textures": "textures/sprites/solrock"
+    },
+    "barboach": {
+      "textures": "textures/sprites/barboach"
+    },
+    "whiscash": {
+      "textures": "textures/sprites/whiscash"
+    },
+    "corphish": {
+      "textures": "textures/sprites/corphish"
+    },
+    "crawdaunt": {
+      "textures": "textures/sprites/crawdaunt"
+    },
+    "baltoy": {
+      "textures": "textures/sprites/baltoy"
+    },
+    "claydol": {
+      "textures": "textures/sprites/claydol"
+    },
+    "lileep": {
+      "textures": "textures/sprites/lileep"
+    },
+    "cradily": {
+      "textures": "textures/sprites/cradily"
+    },
+    "anorith": {
+      "textures": "textures/sprites/anorith"
+    },
+    "armaldo": {
+      "textures": "textures/sprites/armaldo"
+    },
+    "feebas": {
+      "textures": "textures/sprites/feebas"
+    },
+    "milotic": {
+      "textures": "textures/sprites/milotic"
+    },
+    "castform": {
+      "textures": "textures/sprites/castform"
+    },
+    "kecleon": {
+      "textures": "textures/sprites/kecleon"
+    },
+    "shuppet": {
+      "textures": "textures/sprites/shuppet"
+    },
+    "banette": {
+      "textures": "textures/sprites/banette"
+    },
+    "duskull": {
+      "textures": "textures/sprites/duskull"
+    },
+    "dusclops": {
+      "textures": "textures/sprites/dusclops"
+    },
+    "tropius": {
+      "textures": "textures/sprites/tropius"
+    },
+    "chimecho": {
+      "textures": "textures/sprites/chimecho"
+    },
+    "absol": {
+      "textures": "textures/sprites/absol"
+    },
+    "wynaut": {
+      "textures": "textures/sprites/wynaut"
+    },
+    "snorunt": {
+      "textures": "textures/sprites/snorunt"
+    },
+    "glalie": {
+      "textures": "textures/sprites/glalie"
+    },
+    "spheal": {
+      "textures": "textures/sprites/spheal"
+    },
+    "sealeo": {
+      "textures": "textures/sprites/sealeo"
+    },
+    "walrein": {
+      "textures": "textures/sprites/walrein"
+    },
+    "clamperl": {
+      "textures": "textures/sprites/clamperl"
+    },
+    "huntail": {
+      "textures": "textures/sprites/huntail"
+    },
+    "gorebyss": {
+      "textures": "textures/sprites/gorebyss"
+    },
+    "relicanth": {
+      "textures": "textures/sprites/relicanth"
+    },
+    "luvdisc": {
+      "textures": "textures/sprites/luvdisc"
+    },
+    "bagon": {
+      "textures": "textures/sprites/bagon"
+    },
+    "shelgon": {
+      "textures": "textures/sprites/shelgon"
+    },
+    "salamence": {
+      "textures": "textures/sprites/salamence"
+    },
+    "beldum": {
+      "textures": "textures/sprites/beldum"
+    },
+    "metang": {
+      "textures": "textures/sprites/metang"
+    },
+    "metagross": {
+      "textures": "textures/sprites/metagross"
+    },
+    "regirock": {
+      "textures": "textures/sprites/regirock"
+    },
+    "regice": {
+      "textures": "textures/sprites/regice"
+    },
+    "registeel": {
+      "textures": "textures/sprites/registeel"
+    },
+    "latias": {
+      "textures": "textures/sprites/latias"
+    },
+    "latios": {
+      "textures": "textures/sprites/latios"
+    },
+    "kyogre": {
+      "textures": "textures/sprites/kyogre"
+    },
+    "groudon": {
+      "textures": "textures/sprites/groudon"
+    },
+    "rayquaza": {
+      "textures": "textures/sprites/rayquaza"
+    },
+    "jirachi": {
+      "textures": "textures/sprites/jirachi"
+    },
+    "deoxys": {
+      "textures": "textures/sprites/deoxys"
+    },
+    "turtwig": {
+      "textures": "textures/sprites/turtwig"
+    },
+    "grotle": {
+      "textures": "textures/sprites/grotle"
+    },
+    "torterra": {
+      "textures": "textures/sprites/torterra"
+    },
+    "chimchar": {
+      "textures": "textures/sprites/chimchar"
+    },
+    "monferno": {
+      "textures": "textures/sprites/monferno"
+    },
+    "infernape": {
+      "textures": "textures/sprites/infernape"
+    },
+    "piplup": {
+      "textures": "textures/sprites/piplup"
+    },
+    "prinplup": {
+      "textures": "textures/sprites/prinplup"
+    },
+    "empoleon": {
+      "textures": "textures/sprites/empoleon"
+    },
+    "starly": {
+      "textures": "textures/sprites/starly"
+    },
+    "staravia": {
+      "textures": "textures/sprites/staravia"
+    },
+    "staraptor": {
+      "textures": "textures/sprites/staraptor"
+    },
+    "bidoof": {
+      "textures": "textures/sprites/bidoof"
+    },
+    "bibarel": {
+      "textures": "textures/sprites/bibarel"
+    },
+    "kricketot": {
+      "textures": "textures/sprites/kricketot"
+    },
+    "kricketune": {
+      "textures": "textures/sprites/kricketune"
+    },
+    "shinx": {
+      "textures": "textures/sprites/shinx"
+    },
+    "luxio": {
+      "textures": "textures/sprites/luxio"
+    },
+    "luxray": {
+      "textures": "textures/sprites/luxray"
+    },
+    "budew": {
+      "textures": "textures/sprites/budew"
+    },
+    "roserade": {
+      "textures": "textures/sprites/roserade"
+    },
+    "cranidos": {
+      "textures": "textures/sprites/cranidos"
+    },
+    "rampardos": {
+      "textures": "textures/sprites/rampardos"
+    },
+    "shieldon": {
+      "textures": "textures/sprites/shieldon"
+    },
+    "bastiodon": {
+      "textures": "textures/sprites/bastiodon"
+    },
+    "burmy": {
+      "textures": "textures/sprites/burmy"
+    },
+    "wormadam": {
+      "textures": "textures/sprites/wormadam"
+    },
+    "mothim": {
+      "textures": "textures/sprites/mothim"
+    },
+    "combee": {
+      "textures": "textures/sprites/combee"
+    },
+    "vespiquen": {
+      "textures": "textures/sprites/vespiquen"
+    },
+    "pachirisu": {
+      "textures": "textures/sprites/pachirisu"
+    },
+    "buizel": {
+      "textures": "textures/sprites/buizel"
+    },
+    "floatzel": {
+      "textures": "textures/sprites/floatzel"
+    },
+    "cherubi": {
+      "textures": "textures/sprites/cherubi"
+    },
+    "cherrim": {
+      "textures": "textures/sprites/cherrim"
+    },
+    "shellos": {
+      "textures": "textures/sprites/shellos"
+    },
+    "gastrodon": {
+      "textures": "textures/sprites/gastrodon"
+    },
+    "ambipom": {
+      "textures": "textures/sprites/ambipom"
+    },
+    "drifloon": {
+      "textures": "textures/sprites/drifloon"
+    },
+    "drifblim": {
+      "textures": "textures/sprites/drifblim"
+    },
+    "buneary": {
+      "textures": "textures/sprites/buneary"
+    },
+    "lopunny": {
+      "textures": "textures/sprites/lopunny"
+    },
+    "mismagius": {
+      "textures": "textures/sprites/mismagius"
+    },
+    "honchkrow": {
+      "textures": "textures/sprites/honchkrow"
+    },
+    "glameow": {
+      "textures": "textures/sprites/glameow"
+    },
+    "purugly": {
+      "textures": "textures/sprites/purugly"
+    },
+    "chingling": {
+      "textures": "textures/sprites/chingling"
+    },
+    "stunky": {
+      "textures": "textures/sprites/stunky"
+    },
+    "skuntank": {
+      "textures": "textures/sprites/skuntank"
+    },
+    "bronzor": {
+      "textures": "textures/sprites/bronzor"
+    },
+    "bronzong": {
+      "textures": "textures/sprites/bronzong"
+    },
+    "bonsly": {
+      "textures": "textures/sprites/bonsly"
+    },
+    "mimejr": {
+      "textures": "textures/sprites/mimejr"
+    },
+    "happiny": {
+      "textures": "textures/sprites/happiny"
+    },
+    "chatot": {
+      "textures": "textures/sprites/chatot"
+    },
+    "spiritomb": {
+      "textures": "textures/sprites/spiritomb"
+    },
+    "gible": {
+      "textures": "textures/sprites/gible"
+    },
+    "gabite": {
+      "textures": "textures/sprites/gabite"
+    },
+    "garchomp": {
+      "textures": "textures/sprites/garchomp"
+    },
+    "munchlax": {
+      "textures": "textures/sprites/munchlax"
+    },
+    "riolu": {
+      "textures": "textures/sprites/riolu"
+    },
+    "lucario": {
+      "textures": "textures/sprites/lucario"
+    },
+    "hippopotas": {
+      "textures": "textures/sprites/hippopotas"
+    },
+    "hippowdon": {
+      "textures": "textures/sprites/hippowdon"
+    },
+    "skorupi": {
+      "textures": "textures/sprites/skorupi"
+    },
+    "drapion": {
+      "textures": "textures/sprites/drapion"
+    },
+    "croagunk": {
+      "textures": "textures/sprites/croagunk"
+    },
+    "toxicroak": {
+      "textures": "textures/sprites/toxicroak"
+    },
+    "carnivine": {
+      "textures": "textures/sprites/carnivine"
+    },
+    "finneon": {
+      "textures": "textures/sprites/finneon"
+    },
+    "lumineon": {
+      "textures": "textures/sprites/lumineon"
+    },
+    "mantyke": {
+      "textures": "textures/sprites/mantyke"
+    },
+    "snover": {
+      "textures": "textures/sprites/snover"
+    },
+    "abomasnow": {
+      "textures": "textures/sprites/abomasnow"
+    },
+    "weavile": {
+      "textures": "textures/sprites/weavile"
+    },
+    "magnezone": {
+      "textures": "textures/sprites/magnezone"
+    },
+    "lickilicky": {
+      "textures": "textures/sprites/lickilicky"
+    },
+    "rhyperior": {
+      "textures": "textures/sprites/rhyperior"
+    },
+    "tangrowth": {
+      "textures": "textures/sprites/tangrowth"
+    },
+    "electivire": {
+      "textures": "textures/sprites/electivire"
+    },
+    "magmortar": {
+      "textures": "textures/sprites/magmortar"
+    },
+    "togekiss": {
+      "textures": "textures/sprites/togekiss"
+    },
+    "yanmega": {
+      "textures": "textures/sprites/yanmega"
+    },
+    "leafeon": {
+      "textures": "textures/sprites/leafeon"
+    },
+    "glaceon": {
+      "textures": "textures/sprites/glaceon"
+    },
+    "gliscor": {
+      "textures": "textures/sprites/gliscor"
+    },
+    "mamoswine": {
+      "textures": "textures/sprites/mamoswine"
+    },
+    "porygonz": {
+      "textures": "textures/sprites/porygonz"
+    },
+    "gallade": {
+      "textures": "textures/sprites/gallade"
+    },
+    "probopass": {
+      "textures": "textures/sprites/probopass"
+    },
+    "dusknoir": {
+      "textures": "textures/sprites/dusknoir"
+    },
+    "froslass": {
+      "textures": "textures/sprites/froslass"
+    },
+    "rotom": {
+      "textures": "textures/sprites/rotom"
+    },
+    "uxie": {
+      "textures": "textures/sprites/uxie"
+    },
+    "mesprit": {
+      "textures": "textures/sprites/mesprit"
+    },
+    "azelf": {
+      "textures": "textures/sprites/azelf"
+    },
+    "dialga": {
+      "textures": "textures/sprites/dialga"
+    },
+    "palkia": {
+      "textures": "textures/sprites/palkia"
+    },
+    "heatran": {
+      "textures": "textures/sprites/heatran"
+    },
+    "regigigas": {
+      "textures": "textures/sprites/regigigas"
+    },
+    "giratina": {
+      "textures": "textures/sprites/giratina"
+    },
+    "cresselia": {
+      "textures": "textures/sprites/cresselia"
+    },
+    "phione": {
+      "textures": "textures/sprites/phione"
+    },
+    "manaphy": {
+      "textures": "textures/sprites/manaphy"
+    },
+    "darkrai": {
+      "textures": "textures/sprites/darkrai"
+    },
+    "shaymin": {
+      "textures": "textures/sprites/shaymin"
+    },
+    "arceus": {
+      "textures": "textures/sprites/arceus"
+    },
+    "victini": {
+      "textures": "textures/sprites/victini"
+    },
+    "snivy": {
+      "textures": "textures/sprites/snivy"
+    },
+    "servine": {
+      "textures": "textures/sprites/servine"
+    },
+    "serperior": {
+      "textures": "textures/sprites/serperior"
+    },
+    "tepig": {
+      "textures": "textures/sprites/tepig"
+    },
+    "pignite": {
+      "textures": "textures/sprites/pignite"
+    },
+    "emboar": {
+      "textures": "textures/sprites/emboar"
+    },
+    "oshawott": {
+      "textures": "textures/sprites/oshawott"
+    },
+    "dewott": {
+      "textures": "textures/sprites/dewott"
+    },
+    "samurott": {
+      "textures": "textures/sprites/samurott"
+    },
+    "patrat": {
+      "textures": "textures/sprites/patrat"
+    },
+    "watchog": {
+      "textures": "textures/sprites/watchog"
+    },
+    "lillipup": {
+      "textures": "textures/sprites/lillipup"
+    },
+    "herdier": {
+      "textures": "textures/sprites/herdier"
+    },
+    "stoutland": {
+      "textures": "textures/sprites/stoutland"
+    },
+    "purrloin": {
+      "textures": "textures/sprites/purrloin"
+    },
+    "liepard": {
+      "textures": "textures/sprites/liepard"
+    },
+    "pansage": {
+      "textures": "textures/sprites/pansage"
+    },
+    "simisage": {
+      "textures": "textures/sprites/simisage"
+    },
+    "pansear": {
+      "textures": "textures/sprites/pansear"
+    },
+    "simisear": {
+      "textures": "textures/sprites/simisear"
+    },
+    "panpour": {
+      "textures": "textures/sprites/panpour"
+    },
+    "simipour": {
+      "textures": "textures/sprites/simipour"
+    },
+    "munna": {
+      "textures": "textures/sprites/munna"
+    },
+    "musharna": {
+      "textures": "textures/sprites/musharna"
+    },
+    "pidove": {
+      "textures": "textures/sprites/pidove"
+    },
+    "tranquill": {
+      "textures": "textures/sprites/tranquill"
+    },
+    "unfezant": {
+      "textures": "textures/sprites/unfezant"
+    },
+    "blitzle": {
+      "textures": "textures/sprites/blitzle"
+    },
+    "zebstrika": {
+      "textures": "textures/sprites/zebstrika"
+    },
+    "roggenrola": {
+      "textures": "textures/sprites/roggenrola"
+    },
+    "boldore": {
+      "textures": "textures/sprites/boldore"
+    },
+    "gigalith": {
+      "textures": "textures/sprites/gigalith"
+    },
+    "woobat": {
+      "textures": "textures/sprites/woobat"
+    },
+    "swoobat": {
+      "textures": "textures/sprites/swoobat"
+    },
+    "drilbur": {
+      "textures": "textures/sprites/drilbur"
+    },
+    "excadrill": {
+      "textures": "textures/sprites/excadrill"
+    },
+    "audino": {
+      "textures": "textures/sprites/audino"
+    },
+    "timburr": {
+      "textures": "textures/sprites/timburr"
+    },
+    "gurdurr": {
+      "textures": "textures/sprites/gurdurr"
+    },
+    "conkeldurr": {
+      "textures": "textures/sprites/conkeldurr"
+    },
+    "tympole": {
+      "textures": "textures/sprites/tympole"
+    },
+    "palpitoad": {
+      "textures": "textures/sprites/palpitoad"
+    },
+    "seismitoad": {
+      "textures": "textures/sprites/seismitoad"
+    },
+    "throh": {
+      "textures": "textures/sprites/throh"
+    },
+    "sawk": {
+      "textures": "textures/sprites/sawk"
+    },
+    "sewaddle": {
+      "textures": "textures/sprites/sewaddle"
+    },
+    "swadloon": {
+      "textures": "textures/sprites/swadloon"
+    },
+    "leavanny": {
+      "textures": "textures/sprites/leavanny"
+    },
+    "venipede": {
+      "textures": "textures/sprites/venipede"
+    },
+    "whirlipede": {
+      "textures": "textures/sprites/whirlipede"
+    },
+    "scolipede": {
+      "textures": "textures/sprites/scolipede"
+    },
+    "cottonee": {
+      "textures": "textures/sprites/cottonee"
+    },
+    "whimsicott": {
+      "textures": "textures/sprites/whimsicott"
+    },
+    "petilil": {
+      "textures": "textures/sprites/petilil"
+    },
+    "lilligant": {
+      "textures": "textures/sprites/lilligant"
+    },
+    "basculin": {
+      "textures": "textures/sprites/basculin"
+    },
+    "sandile": {
+      "textures": "textures/sprites/sandile"
+    },
+    "krokorok": {
+      "textures": "textures/sprites/krokorok"
+    },
+    "krookodile": {
+      "textures": "textures/sprites/krookodile"
+    },
+    "darumaka": {
+      "textures": "textures/sprites/darumaka"
+    },
+    "darmanitan": {
+      "textures": "textures/sprites/darmanitan"
+    },
+    "maractus": {
+      "textures": "textures/sprites/maractus"
+    },
+    "dwebble": {
+      "textures": "textures/sprites/dwebble"
+    },
+    "crustle": {
+      "textures": "textures/sprites/crustle"
+    },
+    "scraggy": {
+      "textures": "textures/sprites/scraggy"
+    },
+    "scrafty": {
+      "textures": "textures/sprites/scrafty"
+    },
+    "sigilyph": {
+      "textures": "textures/sprites/sigilyph"
+    },
+    "yamask": {
+      "textures": "textures/sprites/yamask"
+    },
+    "cofagrigus": {
+      "textures": "textures/sprites/cofagrigus"
+    },
+    "tirtouga": {
+      "textures": "textures/sprites/tirtouga"
+    },
+    "carracosta": {
+      "textures": "textures/sprites/carracosta"
+    },
+    "archen": {
+      "textures": "textures/sprites/archen"
+    },
+    "archeops": {
+      "textures": "textures/sprites/archeops"
+    },
+    "trubbish": {
+      "textures": "textures/sprites/trubbish"
+    },
+    "garbodor": {
+      "textures": "textures/sprites/garbodor"
+    },
+    "zorua": {
+      "textures": "textures/sprites/zorua"
+    },
+    "zoroark": {
+      "textures": "textures/sprites/zoroark"
+    },
+    "minccino": {
+      "textures": "textures/sprites/minccino"
+    },
+    "cinccino": {
+      "textures": "textures/sprites/cinccino"
+    },
+    "gothita": {
+      "textures": "textures/sprites/gothita"
+    },
+    "gothorita": {
+      "textures": "textures/sprites/gothorita"
+    },
+    "gothitelle": {
+      "textures": "textures/sprites/gothitelle"
+    },
+    "solosis": {
+      "textures": "textures/sprites/solosis"
+    },
+    "duosion": {
+      "textures": "textures/sprites/duosion"
+    },
+    "reuniclus": {
+      "textures": "textures/sprites/reuniclus"
+    },
+    "ducklett": {
+      "textures": "textures/sprites/ducklett"
+    },
+    "swanna": {
+      "textures": "textures/sprites/swanna"
+    },
+    "vanillite": {
+      "textures": "textures/sprites/vanillite"
+    },
+    "vanillish": {
+      "textures": "textures/sprites/vanillish"
+    },
+    "vanilluxe": {
+      "textures": "textures/sprites/vanilluxe"
+    },
+    "deerling": {
+      "textures": "textures/sprites/deerling"
+    },
+    "sawsbuck": {
+      "textures": "textures/sprites/sawsbuck"
+    },
+    "emolga": {
+      "textures": "textures/sprites/emolga"
+    },
+    "karrablast": {
+      "textures": "textures/sprites/karrablast"
+    },
+    "escavalier": {
+      "textures": "textures/sprites/escavalier"
+    },
+    "foongus": {
+      "textures": "textures/sprites/foongus"
+    },
+    "amoonguss": {
+      "textures": "textures/sprites/amoonguss"
+    },
+    "frillish": {
+      "textures": "textures/sprites/frillish"
+    },
+    "jellicent": {
+      "textures": "textures/sprites/jellicent"
+    },
+    "alomomola": {
+      "textures": "textures/sprites/alomomola"
+    },
+    "joltik": {
+      "textures": "textures/sprites/joltik"
+    },
+    "galvantula": {
+      "textures": "textures/sprites/galvantula"
+    },
+    "ferroseed": {
+      "textures": "textures/sprites/ferroseed"
+    },
+    "ferrothorn": {
+      "textures": "textures/sprites/ferrothorn"
+    },
+    "klink": {
+      "textures": "textures/sprites/klink"
+    },
+    "klang": {
+      "textures": "textures/sprites/klang"
+    },
+    "klinklang": {
+      "textures": "textures/sprites/klinklang"
+    },
+    "tynamo": {
+      "textures": "textures/sprites/tynamo"
+    },
+    "eelektrik": {
+      "textures": "textures/sprites/eelektrik"
+    },
+    "eelektross": {
+      "textures": "textures/sprites/eelektross"
+    },
+    "elgyem": {
+      "textures": "textures/sprites/elgyem"
+    },
+    "beheeyem": {
+      "textures": "textures/sprites/beheeyem"
+    },
+    "litwick": {
+      "textures": "textures/sprites/litwick"
+    },
+    "lampent": {
+      "textures": "textures/sprites/lampent"
+    },
+    "chandelure": {
+      "textures": "textures/sprites/chandelure"
+    },
+    "axew": {
+      "textures": "textures/sprites/axew"
+    },
+    "fraxure": {
+      "textures": "textures/sprites/fraxure"
+    },
+    "haxorus": {
+      "textures": "textures/sprites/haxorus"
+    },
+    "cubchoo": {
+      "textures": "textures/sprites/cubchoo"
+    },
+    "beartic": {
+      "textures": "textures/sprites/beartic"
+    },
+    "cryogonal": {
+      "textures": "textures/sprites/cryogonal"
+    },
+    "shelmet": {
+      "textures": "textures/sprites/shelmet"
+    },
+    "accelgor": {
+      "textures": "textures/sprites/accelgor"
+    },
+    "stunfisk": {
+      "textures": "textures/sprites/stunfisk"
+    },
+    "mienfoo": {
+      "textures": "textures/sprites/mienfoo"
+    },
+    "mienshao": {
+      "textures": "textures/sprites/mienshao"
+    },
+    "druddigon": {
+      "textures": "textures/sprites/druddigon"
+    },
+    "golett": {
+      "textures": "textures/sprites/golett"
+    },
+    "golurk": {
+      "textures": "textures/sprites/golurk"
+    },
+    "pawniard": {
+      "textures": "textures/sprites/pawniard"
+    },
+    "bisharp": {
+      "textures": "textures/sprites/bisharp"
+    },
+    "bouffalant": {
+      "textures": "textures/sprites/bouffalant"
+    },
+    "rufflet": {
+      "textures": "textures/sprites/rufflet"
+    },
+    "braviary": {
+      "textures": "textures/sprites/braviary"
+    },
+    "vullaby": {
+      "textures": "textures/sprites/vullaby"
+    },
+    "mandibuzz": {
+      "textures": "textures/sprites/mandibuzz"
+    },
+    "heatmor": {
+      "textures": "textures/sprites/heatmor"
+    },
+    "durant": {
+      "textures": "textures/sprites/durant"
+    },
+    "deino": {
+      "textures": "textures/sprites/deino"
+    },
+    "zweilous": {
+      "textures": "textures/sprites/zweilous"
+    },
+    "hydreigon": {
+      "textures": "textures/sprites/hydreigon"
+    },
+    "larvesta": {
+      "textures": "textures/sprites/larvesta"
+    },
+    "volcarona": {
+      "textures": "textures/sprites/volcarona"
+    },
+    "cobalion": {
+      "textures": "textures/sprites/cobalion"
+    },
+    "terrakion": {
+      "textures": "textures/sprites/terrakion"
+    },
+    "virizion": {
+      "textures": "textures/sprites/virizion"
+    },
+    "tornadus": {
+      "textures": "textures/sprites/tornadus"
+    },
+    "thundurus": {
+      "textures": "textures/sprites/thundurus"
+    },
+    "reshiram": {
+      "textures": "textures/sprites/reshiram"
+    },
+    "zekrom": {
+      "textures": "textures/sprites/zekrom"
+    },
+    "landorus": {
+      "textures": "textures/sprites/landorus"
+    },
+    "kyurem": {
+      "textures": "textures/sprites/kyurem"
+    },
+    "keldeo": {
+      "textures": "textures/sprites/keldeo"
+    },
+    "meloetta": {
+      "textures": "textures/sprites/meloetta"
+    },
+    "genesect": {
+      "textures": "textures/sprites/genesect"
+    },
+    "chespin": {
+      "textures": "textures/sprites/chespin"
+    },
+    "quilladin": {
+      "textures": "textures/sprites/quilladin"
+    },
+    "chesnaught": {
+      "textures": "textures/sprites/chesnaught"
+    },
+    "fennekin": {
+      "textures": "textures/sprites/fennekin"
+    },
+    "braixen": {
+      "textures": "textures/sprites/braixen"
+    },
+    "delphox": {
+      "textures": "textures/sprites/delphox"
+    },
+    "froakie": {
+      "textures": "textures/sprites/froakie"
+    },
+    "frogadier": {
+      "textures": "textures/sprites/frogadier"
+    },
+    "greninja": {
+      "textures": "textures/sprites/greninja"
+    },
+    "bunnelby": {
+      "textures": "textures/sprites/bunnelby"
+    },
+    "diggersby": {
+      "textures": "textures/sprites/diggersby"
+    },
+    "fletchling": {
+      "textures": "textures/sprites/fletchling"
+    },
+    "fletchinder": {
+      "textures": "textures/sprites/fletchinder"
+    },
+    "talonflame": {
+      "textures": "textures/sprites/talonflame"
+    },
+    "scatterbug": {
+      "textures": "textures/sprites/scatterbug"
+    },
+    "spewpa": {
+      "textures": "textures/sprites/spewpa"
+    },
+    "vivillon": {
+      "textures": "textures/sprites/vivillon"
+    },
+    "litleo": {
+      "textures": "textures/sprites/litleo"
+    },
+    "pyroar": {
+      "textures": "textures/sprites/pyroar"
+    },
+    "flabebe": {
+      "textures": "textures/sprites/flabebe"
+    },
+    "floette": {
+      "textures": "textures/sprites/floette"
+    },
+    "florges": {
+      "textures": "textures/sprites/florges"
+    },
+    "skiddo": {
+      "textures": "textures/sprites/skiddo"
+    },
+    "gogoat": {
+      "textures": "textures/sprites/gogoat"
+    },
+    "pancham": {
+      "textures": "textures/sprites/pancham"
+    },
+    "pangoro": {
+      "textures": "textures/sprites/pangoro"
+    },
+    "furfrou": {
+      "textures": "textures/sprites/furfrou"
+    },
+    "espurr": {
+      "textures": "textures/sprites/espurr"
+    },
+    "meowstic": {
+      "textures": "textures/sprites/meowstic"
+    },
+    "honedge": {
+      "textures": "textures/sprites/honedge"
+    },
+    "doublade": {
+      "textures": "textures/sprites/doublade"
+    },
+    "aegislash": {
+      "textures": "textures/sprites/aegislash"
+    },
+    "spritzee": {
+      "textures": "textures/sprites/spritzee"
+    },
+    "aromatisse": {
+      "textures": "textures/sprites/aromatisse"
+    },
+    "swirlix": {
+      "textures": "textures/sprites/swirlix"
+    },
+    "slurpuff": {
+      "textures": "textures/sprites/slurpuff"
+    },
+    "inkay": {
+      "textures": "textures/sprites/inkay"
+    },
+    "malamar": {
+      "textures": "textures/sprites/malamar"
+    },
+    "binacle": {
+      "textures": "textures/sprites/binacle"
+    },
+    "barbaracle": {
+      "textures": "textures/sprites/barbaracle"
+    },
+    "skrelp": {
+      "textures": "textures/sprites/skrelp"
+    },
+    "dragalge": {
+      "textures": "textures/sprites/dragalge"
+    },
+    "clauncher": {
+      "textures": "textures/sprites/clauncher"
+    },
+    "clawitzer": {
+      "textures": "textures/sprites/clawitzer"
+    },
+    "helioptile": {
+      "textures": "textures/sprites/helioptile"
+    },
+    "heliolisk": {
+      "textures": "textures/sprites/heliolisk"
+    },
+    "tyrunt": {
+      "textures": "textures/sprites/tyrunt"
+    },
+    "tyrantrum": {
+      "textures": "textures/sprites/tyrantrum"
+    },
+    "amaura": {
+      "textures": "textures/sprites/amaura"
+    },
+    "aurorus": {
+      "textures": "textures/sprites/aurorus"
+    },
+    "sylveon": {
+      "textures": "textures/sprites/sylveon"
+    },
+    "hawlucha": {
+      "textures": "textures/sprites/hawlucha"
+    },
+    "dedenne": {
+      "textures": "textures/sprites/dedenne"
+    },
+    "carbink": {
+      "textures": "textures/sprites/carbink"
+    },
+    "goomy": {
+      "textures": "textures/sprites/goomy"
+    },
+    "sliggoo": {
+      "textures": "textures/sprites/sliggoo"
+    },
+    "goodra": {
+      "textures": "textures/sprites/goodra"
+    },
+    "klefki": {
+      "textures": "textures/sprites/klefki"
+    },
+    "phantump": {
+      "textures": "textures/sprites/phantump"
+    },
+    "trevenant": {
+      "textures": "textures/sprites/trevenant"
+    },
+    "pumpkaboo": {
+      "textures": "textures/sprites/pumpkaboo"
+    },
+    "gourgeist": {
+      "textures": "textures/sprites/gourgeist"
+    },
+    "bergmite": {
+      "textures": "textures/sprites/bergmite"
+    },
+    "avalugg": {
+      "textures": "textures/sprites/avalugg"
+    },
+    "noibat": {
+      "textures": "textures/sprites/noibat"
+    },
+    "noivern": {
+      "textures": "textures/sprites/noivern"
+    },
+    "xerneas": {
+      "textures": "textures/sprites/xerneas"
+    },
+    "yveltal": {
+      "textures": "textures/sprites/yveltal"
+    },
+    "zygarde": {
+      "textures": "textures/sprites/zygarde"
+    },
+    "diancie": {
+      "textures": "textures/sprites/diancie"
+    },
+    "hoopa": {
+      "textures": "textures/sprites/hoopa"
+    },
+    "volcanion": {
+      "textures": "textures/sprites/volcanion"
+    },
+    "rowlet": {
+      "textures": "textures/sprites/rowlet"
+    },
+    "dartrix": {
+      "textures": "textures/sprites/dartrix"
+    },
+    "decidueye": {
+      "textures": "textures/sprites/decidueye"
+    },
+    "litten": {
+      "textures": "textures/sprites/litten"
+    },
+    "torracat": {
+      "textures": "textures/sprites/torracat"
+    },
+    "incineroar": {
+      "textures": "textures/sprites/incineroar"
+    },
+    "popplio": {
+      "textures": "textures/sprites/popplio"
+    },
+    "brionne": {
+      "textures": "textures/sprites/brionne"
+    },
+    "primarina": {
+      "textures": "textures/sprites/primarina"
+    },
+    "pikipek": {
+      "textures": "textures/sprites/pikipek"
+    },
+    "trumbeak": {
+      "textures": "textures/sprites/trumbeak"
+    },
+    "toucannon": {
+      "textures": "textures/sprites/toucannon"
+    },
+    "yungoos": {
+      "textures": "textures/sprites/yungoos"
+    },
+    "gumshoos": {
+      "textures": "textures/sprites/gumshoos"
+    },
+    "grubbin": {
+      "textures": "textures/sprites/grubbin"
+    },
+    "charjabug": {
+      "textures": "textures/sprites/charjabug"
+    },
+    "vikavolt": {
+      "textures": "textures/sprites/vikavolt"
+    },
+    "crabrawler": {
+      "textures": "textures/sprites/crabrawler"
+    },
+    "crabominable": {
+      "textures": "textures/sprites/crabominable"
+    },
+    "oricorio": {
+      "textures": "textures/sprites/oricorio"
+    },
+    "cutiefly": {
+      "textures": "textures/sprites/cutiefly"
+    },
+    "ribombee": {
+      "textures": "textures/sprites/ribombee"
+    },
+    "rockruff": {
+      "textures": "textures/sprites/rockruff"
+    },
+    "lycanroc": {
+      "textures": "textures/sprites/lycanroc"
+    },
+    "wishiwashi": {
+      "textures": "textures/sprites/wishiwashi"
+    },
+    "mareanie": {
+      "textures": "textures/sprites/mareanie"
+    },
+    "toxapex": {
+      "textures": "textures/sprites/toxapex"
+    },
+    "mudbray": {
+      "textures": "textures/sprites/mudbray"
+    },
+    "mudsdale": {
+      "textures": "textures/sprites/mudsdale"
+    },
+    "dewpider": {
+      "textures": "textures/sprites/dewpider"
+    },
+    "araquanid": {
+      "textures": "textures/sprites/araquanid"
+    },
+    "fomantis": {
+      "textures": "textures/sprites/fomantis"
+    },
+    "lurantis": {
+      "textures": "textures/sprites/lurantis"
+    },
+    "morelull": {
+      "textures": "textures/sprites/morelull"
+    },
+    "shiinotic": {
+      "textures": "textures/sprites/shiinotic"
+    },
+    "salandit": {
+      "textures": "textures/sprites/salandit"
+    },
+    "salazzle": {
+      "textures": "textures/sprites/salazzle"
+    },
+    "stufful": {
+      "textures": "textures/sprites/stufful"
+    },
+    "bewear": {
+      "textures": "textures/sprites/bewear"
+    },
+    "bounsweet": {
+      "textures": "textures/sprites/bounsweet"
+    },
+    "steenee": {
+      "textures": "textures/sprites/steenee"
+    },
+    "tsareena": {
+      "textures": "textures/sprites/tsareena"
+    },
+    "comfey": {
+      "textures": "textures/sprites/comfey"
+    },
+    "oranguru": {
+      "textures": "textures/sprites/oranguru"
+    },
+    "passimian": {
+      "textures": "textures/sprites/passimian"
+    },
+    "wimpod": {
+      "textures": "textures/sprites/wimpod"
+    },
+    "golisopod": {
+      "textures": "textures/sprites/golisopod"
+    },
+    "sandygast": {
+      "textures": "textures/sprites/sandygast"
+    },
+    "palossand": {
+      "textures": "textures/sprites/palossand"
+    },
+    "pyukumuku": {
+      "textures": "textures/sprites/pyukumuku"
+    },
+    "typenull": {
+      "textures": "textures/sprites/typenull"
+    },
+    "silvally": {
+      "textures": "textures/sprites/silvally"
+    },
+    "minior": {
+      "textures": "textures/sprites/minior"
+    },
+    "komala": {
+      "textures": "textures/sprites/komala"
+    },
+    "turtonator": {
+      "textures": "textures/sprites/turtonator"
+    },
+    "togedemaru": {
+      "textures": "textures/sprites/togedemaru"
+    },
+    "mimikyu": {
+      "textures": "textures/sprites/mimikyu"
+    },
+    "bruxish": {
+      "textures": "textures/sprites/bruxish"
+    },
+    "drampa": {
+      "textures": "textures/sprites/drampa"
+    },
+    "dhelmise": {
+      "textures": "textures/sprites/dhelmise"
+    },
+    "jangmoo": {
+      "textures": "textures/sprites/jangmoo"
+    },
+    "hakamoo": {
+      "textures": "textures/sprites/hakamoo"
+    },
+    "kommoo": {
+      "textures": "textures/sprites/kommoo"
+    },
+    "tapukoko": {
+      "textures": "textures/sprites/tapukoko"
+    },
+    "tapulele": {
+      "textures": "textures/sprites/tapulele"
+    },
+    "tapubulu": {
+      "textures": "textures/sprites/tapubulu"
+    },
+    "tapufini": {
+      "textures": "textures/sprites/tapufini"
+    },
+    "cosmog": {
+      "textures": "textures/sprites/cosmog"
+    },
+    "cosmoem": {
+      "textures": "textures/sprites/cosmoem"
+    },
+    "solgaleo": {
+      "textures": "textures/sprites/solgaleo"
+    },
+    "lunala": {
+      "textures": "textures/sprites/lunala"
+    },
+    "nihilego": {
+      "textures": "textures/sprites/nihilego"
+    },
+    "buzzwole": {
+      "textures": "textures/sprites/buzzwole"
+    },
+    "pheromosa": {
+      "textures": "textures/sprites/pheromosa"
+    },
+    "xurkitree": {
+      "textures": "textures/sprites/xurkitree"
+    },
+    "celesteela": {
+      "textures": "textures/sprites/celesteela"
+    },
+    "kartana": {
+      "textures": "textures/sprites/kartana"
+    },
+    "guzzlord": {
+      "textures": "textures/sprites/guzzlord"
+    },
+    "necrozma": {
+      "textures": "textures/sprites/necrozma"
+    },
+    "magearna": {
+      "textures": "textures/sprites/magearna"
+    },
+    "marshadow": {
+      "textures": "textures/sprites/marshadow"
+    },
+    "poipole": {
+      "textures": "textures/sprites/poipole"
+    },
+    "naganadel": {
+      "textures": "textures/sprites/naganadel"
+    },
+    "stakataka": {
+      "textures": "textures/sprites/stakataka"
+    },
+    "blacephalon": {
+      "textures": "textures/sprites/blacephalon"
+    },
+    "zeraora": {
+      "textures": "textures/sprites/zeraora"
+    },
+    "meltan": {
+      "textures": "textures/sprites/meltan"
+    },
+    "melmetal": {
+      "textures": "textures/sprites/melmetal"
+    },
+    "grookey": {
+      "textures": "textures/sprites/grookey"
+    },
+    "thwackey": {
+      "textures": "textures/sprites/thwackey"
+    },
+    "rillaboom": {
+      "textures": "textures/sprites/rillaboom"
+    },
+    "scorbunny": {
+      "textures": "textures/sprites/scorbunny"
+    },
+    "raboot": {
+      "textures": "textures/sprites/raboot"
+    },
+    "cinderace": {
+      "textures": "textures/sprites/cinderace"
+    },
+    "sobble": {
+      "textures": "textures/sprites/sobble"
+    },
+    "drizzile": {
+      "textures": "textures/sprites/drizzile"
+    },
+    "inteleon": {
+      "textures": "textures/sprites/inteleon"
+    },
+    "skwovet": {
+      "textures": "textures/sprites/skwovet"
+    },
+    "greedent": {
+      "textures": "textures/sprites/greedent"
+    },
+    "rookidee": {
+      "textures": "textures/sprites/rookidee"
+    },
+    "corvisquire": {
+      "textures": "textures/sprites/corvisquire"
+    },
+    "corviknight": {
+      "textures": "textures/sprites/corviknight"
+    },
+    "blipbug": {
+      "textures": "textures/sprites/blipbug"
+    },
+    "dottler": {
+      "textures": "textures/sprites/dottler"
+    },
+    "orbeetle": {
+      "textures": "textures/sprites/orbeetle"
+    },
+    "nickit": {
+      "textures": "textures/sprites/nickit"
+    },
+    "thievul": {
+      "textures": "textures/sprites/thievul"
+    },
+    "gossifleur": {
+      "textures": "textures/sprites/gossifleur"
+    },
+    "eldegoss": {
+      "textures": "textures/sprites/eldegoss"
+    },
+    "wooloo": {
+      "textures": "textures/sprites/wooloo"
+    },
+    "dubwool": {
+      "textures": "textures/sprites/dubwool"
+    },
+    "chewtle": {
+      "textures": "textures/sprites/chewtle"
+    },
+    "drednaw": {
+      "textures": "textures/sprites/drednaw"
+    },
+    "yamper": {
+      "textures": "textures/sprites/yamper"
+    },
+    "boltund": {
+      "textures": "textures/sprites/boltund"
+    },
+    "rolycoly": {
+      "textures": "textures/sprites/rolycoly"
+    },
+    "carkol": {
+      "textures": "textures/sprites/carkol"
+    },
+    "coalossal": {
+      "textures": "textures/sprites/coalossal"
+    },
+    "applin": {
+      "textures": "textures/sprites/applin"
+    },
+    "flapple": {
+      "textures": "textures/sprites/flapple"
+    },
+    "appletun": {
+      "textures": "textures/sprites/appletun"
+    },
+    "silicobra": {
+      "textures": "textures/sprites/silicobra"
+    },
+    "sandaconda": {
+      "textures": "textures/sprites/sandaconda"
+    },
+    "cramorant": {
+      "textures": "textures/sprites/cramorant"
+    },
+    "arrokuda": {
+      "textures": "textures/sprites/arrokuda"
+    },
+    "barraskewda": {
+      "textures": "textures/sprites/barraskewda"
+    },
+    "toxel": {
+      "textures": "textures/sprites/toxel"
+    },
+    "toxtricity": {
+      "textures": "textures/sprites/toxtricity"
+    },
+    "sizzlipede": {
+      "textures": "textures/sprites/sizzlipede"
+    },
+    "centiskorch": {
+      "textures": "textures/sprites/centiskorch"
+    },
+    "clobbopus": {
+      "textures": "textures/sprites/clobbopus"
+    },
+    "grapploct": {
+      "textures": "textures/sprites/grapploct"
+    },
+    "sinistea": {
+      "textures": "textures/sprites/sinistea"
+    },
+    "polteageist": {
+      "textures": "textures/sprites/polteageist"
+    },
+    "hatenna": {
+      "textures": "textures/sprites/hatenna"
+    },
+    "hattrem": {
+      "textures": "textures/sprites/hattrem"
+    },
+    "hatterene": {
+      "textures": "textures/sprites/hatterene"
+    },
+    "impidimp": {
+      "textures": "textures/sprites/impidimp"
+    },
+    "morgrem": {
+      "textures": "textures/sprites/morgrem"
+    },
+    "grimmsnarl": {
+      "textures": "textures/sprites/grimmsnarl"
+    },
+    "obstagoon": {
+      "textures": "textures/sprites/obstagoon"
+    },
+    "perrserker": {
+      "textures": "textures/sprites/perrserker"
+    },
+    "cursola": {
+      "textures": "textures/sprites/cursola"
+    },
+    "sirfetchd": {
+      "textures": "textures/sprites/sirfetchd"
+    },
+    "mrrime": {
+      "textures": "textures/sprites/mrrime"
+    },
+    "runerigus": {
+      "textures": "textures/sprites/runerigus"
+    },
+    "milcery": {
+      "textures": "textures/sprites/milcery"
+    },
+    "alcremie": {
+      "textures": "textures/sprites/alcremie"
+    },
+    "falinks": {
+      "textures": "textures/sprites/falinks"
+    },
+    "pincurchin": {
+      "textures": "textures/sprites/pincurchin"
+    },
+    "snom": {
+      "textures": "textures/sprites/snom"
+    },
+    "frosmoth": {
+      "textures": "textures/sprites/frosmoth"
+    },
+    "stonjourner": {
+      "textures": "textures/sprites/stonjourner"
+    },
+    "eiscue": {
+      "textures": "textures/sprites/eiscue"
+    },
+    "indeedee": {
+      "textures": "textures/sprites/indeedee"
+    },
+    "morpeko": {
+      "textures": "textures/sprites/morpeko"
+    },
+    "cufant": {
+      "textures": "textures/sprites/cufant"
+    },
+    "copperajah": {
+      "textures": "textures/sprites/copperajah"
+    },
+    "dracozolt": {
+      "textures": "textures/sprites/dracozolt"
+    },
+    "arctozolt": {
+      "textures": "textures/sprites/arctozolt"
+    },
+    "dracovish": {
+      "textures": "textures/sprites/dracovish"
+    },
+    "arctovish": {
+      "textures": "textures/sprites/arctovish"
+    },
+    "duraludon": {
+      "textures": "textures/sprites/duraludon"
+    },
+    "dreepy": {
+      "textures": "textures/sprites/dreepy"
+    },
+    "drakloak": {
+      "textures": "textures/sprites/drakloak"
+    },
+    "dragapult": {
+      "textures": "textures/sprites/dragapult"
+    },
+    "zacian": {
+      "textures": "textures/sprites/zacian"
+    },
+    "zamazenta": {
+      "textures": "textures/sprites/zamazenta"
+    },
+    "eternatus": {
+      "textures": "textures/sprites/eternatus"
+    },
+    "kubfu": {
+      "textures": "textures/sprites/kubfu"
+    },
+    "urshifu": {
+      "textures": "textures/sprites/urshifu"
+    },
+    "zarude": {
+      "textures": "textures/sprites/zarude"
+    },
+    "regieleki": {
+      "textures": "textures/sprites/regieleki"
+    },
+    "regidrago": {
+      "textures": "textures/sprites/regidrago"
+    },
+    "glastrier": {
+      "textures": "textures/sprites/glastrier"
+    },
+    "spectrier": {
+      "textures": "textures/sprites/spectrier"
+    },
+    "calyrex": {
+      "textures": "textures/sprites/calyrex"
+    },
+    "wyrdeer": {
+      "textures": "textures/sprites/wyrdeer"
+    },
+    "kleavor": {
+      "textures": "textures/sprites/kleavor"
+    },
+    "ursaluna": {
+      "textures": "textures/sprites/ursaluna"
+    },
+    "basculegion": {
+      "textures": "textures/sprites/basculegion"
+    },
+    "sneasler": {
+      "textures": "textures/sprites/sneasler"
+    },
+    "overqwil": {
+      "textures": "textures/sprites/overqwil"
+    },
+    "enamorus": {
+      "textures": "textures/sprites/enamorus"
+    },
+    "sprigatito": {
+      "textures": "textures/sprites/sprigatito"
+    },
+    "floragato": {
+      "textures": "textures/sprites/floragato"
+    },
+    "meowscarada": {
+      "textures": "textures/sprites/meowscarada"
+    },
+    "fuecoco": {
+      "textures": "textures/sprites/fuecoco"
+    },
+    "crocalor": {
+      "textures": "textures/sprites/crocalor"
+    },
+    "skeledirge": {
+      "textures": "textures/sprites/skeledirge"
+    },
+    "quaxly": {
+      "textures": "textures/sprites/quaxly"
+    },
+    "quaxwell": {
+      "textures": "textures/sprites/quaxwell"
+    },
+    "quaquaval": {
+      "textures": "textures/sprites/quaquaval"
+    },
+    "lechonk": {
+      "textures": "textures/sprites/lechonk"
+    },
+    "oinkologne": {
+      "textures": "textures/sprites/oinkologne"
+    },
+    "tarountula": {
+      "textures": "textures/sprites/tarountula"
+    },
+    "spidops": {
+      "textures": "textures/sprites/spidops"
+    },
+    "nymble": {
+      "textures": "textures/sprites/nymble"
+    },
+    "lokix": {
+      "textures": "textures/sprites/lokix"
+    },
+    "pawmi": {
+      "textures": "textures/sprites/pawmi"
+    },
+    "pawmo": {
+      "textures": "textures/sprites/pawmo"
+    },
+    "pawmot": {
+      "textures": "textures/sprites/pawmot"
+    },
+    "tandemaus": {
+      "textures": "textures/sprites/tandemaus"
+    },
+    "maushold": {
+      "textures": "textures/sprites/maushold"
+    },
+    "fidough": {
+      "textures": "textures/sprites/fidough"
+    },
+    "dachsbun": {
+      "textures": "textures/sprites/dachsbun"
+    },
+    "smoliv": {
+      "textures": "textures/sprites/smoliv"
+    },
+    "dolliv": {
+      "textures": "textures/sprites/dolliv"
+    },
+    "arboliva": {
+      "textures": "textures/sprites/arboliva"
+    },
+    "squawkabilly": {
+      "textures": "textures/sprites/squawkabilly"
+    },
+    "nacli": {
+      "textures": "textures/sprites/nacli"
+    },
+    "naclstack": {
+      "textures": "textures/sprites/naclstack"
+    },
+    "garganacl": {
+      "textures": "textures/sprites/garganacl"
+    },
+    "charcadet": {
+      "textures": "textures/sprites/charcadet"
+    },
+    "armarouge": {
+      "textures": "textures/sprites/armarouge"
+    },
+    "ceruledge": {
+      "textures": "textures/sprites/ceruledge"
+    },
+    "tadbulb": {
+      "textures": "textures/sprites/tadbulb"
+    },
+    "bellibolt": {
+      "textures": "textures/sprites/bellibolt"
+    },
+    "wattrel": {
+      "textures": "textures/sprites/wattrel"
+    },
+    "kilowattrel": {
+      "textures": "textures/sprites/kilowattrel"
+    },
+    "maschiff": {
+      "textures": "textures/sprites/maschiff"
+    },
+    "mabosstiff": {
+      "textures": "textures/sprites/mabosstiff"
+    },
+    "shroodle": {
+      "textures": "textures/sprites/shroodle"
+    },
+    "grafaiai": {
+      "textures": "textures/sprites/grafaiai"
+    },
+    "bramblin": {
+      "textures": "textures/sprites/bramblin"
+    },
+    "brambleghast": {
+      "textures": "textures/sprites/brambleghast"
+    },
+    "toedscool": {
+      "textures": "textures/sprites/toedscool"
+    },
+    "toedscruel": {
+      "textures": "textures/sprites/toedscruel"
+    },
+    "klawf": {
+      "textures": "textures/sprites/klawf"
+    },
+    "capsakid": {
+      "textures": "textures/sprites/capsakid"
+    },
+    "scovillain": {
+      "textures": "textures/sprites/scovillain"
+    },
+    "rellor": {
+      "textures": "textures/sprites/rellor"
+    },
+    "rabsca": {
+      "textures": "textures/sprites/rabsca"
+    },
+    "flittle": {
+      "textures": "textures/sprites/flittle"
+    },
+    "espathra": {
+      "textures": "textures/sprites/espathra"
+    },
+    "tinkatink": {
+      "textures": "textures/sprites/tinkatink"
+    },
+    "tinkatuff": {
+      "textures": "textures/sprites/tinkatuff"
+    },
+    "tinkaton": {
+      "textures": "textures/sprites/tinkaton"
+    },
+    "wiglett": {
+      "textures": "textures/sprites/wiglett"
+    },
+    "wugtrio": {
+      "textures": "textures/sprites/wugtrio"
+    },
+    "bombirdier": {
+      "textures": "textures/sprites/bombirdier"
+    },
+    "finizen": {
+      "textures": "textures/sprites/finizen"
+    },
+    "palafin": {
+      "textures": "textures/sprites/palafin"
+    },
+    "varoom": {
+      "textures": "textures/sprites/varoom"
+    },
+    "revavroom": {
+      "textures": "textures/sprites/revavroom"
+    },
+    "cyclizar": {
+      "textures": "textures/sprites/cyclizar"
+    },
+    "orthworm": {
+      "textures": "textures/sprites/orthworm"
+    },
+    "glimmet": {
+      "textures": "textures/sprites/glimmet"
+    },
+    "glimmora": {
+      "textures": "textures/sprites/glimmora"
+    },
+    "greavard": {
+      "textures": "textures/sprites/greavard"
+    },
+    "houndstone": {
+      "textures": "textures/sprites/houndstone"
+    },
+    "flamigo": {
+      "textures": "textures/sprites/flamigo"
+    },
+    "cetoddle": {
+      "textures": "textures/sprites/cetoddle"
+    },
+    "cetitan": {
+      "textures": "textures/sprites/cetitan"
+    },
+    "veluza": {
+      "textures": "textures/sprites/veluza"
+    },
+    "dondozo": {
+      "textures": "textures/sprites/dondozo"
+    },
+    "tatsugiri": {
+      "textures": "textures/sprites/tatsugiri"
+    },
+    "annihilape": {
+      "textures": "textures/sprites/annihilape"
+    },
+    "clodsire": {
+      "textures": "textures/sprites/clodsire"
+    },
+    "farigiraf": {
+      "textures": "textures/sprites/farigiraf"
+    },
+    "dudunsparce": {
+      "textures": "textures/sprites/dudunsparce"
+    },
+    "kingambit": {
+      "textures": "textures/sprites/kingambit"
+    },
+    "greattusk": {
+      "textures": "textures/sprites/greattusk"
+    },
+    "screamtail": {
+      "textures": "textures/sprites/screamtail"
+    },
+    "brutebonnet": {
+      "textures": "textures/sprites/brutebonnet"
+    },
+    "fluttermane": {
+      "textures": "textures/sprites/fluttermane"
+    },
+    "slitherwing": {
+      "textures": "textures/sprites/slitherwing"
+    },
+    "sandyshocks": {
+      "textures": "textures/sprites/sandyshocks"
+    },
+    "irontreads": {
+      "textures": "textures/sprites/irontreads"
+    },
+    "ironbundle": {
+      "textures": "textures/sprites/ironbundle"
+    },
+    "ironhands": {
+      "textures": "textures/sprites/ironhands"
+    },
+    "ironjugulis": {
+      "textures": "textures/sprites/ironjugulis"
+    },
+    "ironmoth": {
+      "textures": "textures/sprites/ironmoth"
+    },
+    "ironthorns": {
+      "textures": "textures/sprites/ironthorns"
+    },
+    "frigibax": {
+      "textures": "textures/sprites/frigibax"
+    },
+    "arctibax": {
+      "textures": "textures/sprites/arctibax"
+    },
+    "baxcalibur": {
+      "textures": "textures/sprites/baxcalibur"
+    },
+    "gimmighoul": {
+      "textures": "textures/sprites/gimmighoul"
+    },
+    "gholdengo": {
+      "textures": "textures/sprites/gholdengo"
+    },
+    "wochien": {
+      "textures": "textures/sprites/wochien"
+    },
+    "chienpao": {
+      "textures": "textures/sprites/chienpao"
+    },
+    "tinglu": {
+      "textures": "textures/sprites/tinglu"
+    },
+    "chiyu": {
+      "textures": "textures/sprites/chiyu"
+    },
+    "roaringmoon": {
+      "textures": "textures/sprites/roaringmoon"
+    },
+    "ironvaliant": {
+      "textures": "textures/sprites/ironvaliant"
+    },
+    "koraidon": {
+      "textures": "textures/sprites/koraidon"
+    },
+    "miraidon": {
+      "textures": "textures/sprites/miraidon"
+    },
+    "walkingwake": {
+      "textures": "textures/sprites/walkingwake"
+    },
+    "ironleaves": {
+      "textures": "textures/sprites/ironleaves"
+    }
+  }
+}

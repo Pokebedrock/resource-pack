@@ -1,0 +1,119 @@
+{
+  "pokeb:pc": {
+    "textures": "pc_blink",
+    "sound": "normal"
+  },
+  "pokeb:healing_machine": {
+    "textures": "healing_machine_off",
+    "sound": "normal"
+  },
+  "pokeb:trade_machine": {
+    "textures": "trade_machine",
+    "sound": "normal"
+  },
+  "pokeb:apricorn_log": {
+    "sound": "wood"
+  },
+  "pokeb:stripped_apricorn_log": {
+    "sound": "wood"
+  },
+  "pokeb:black_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:black_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:blue_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:blue_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:green_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:green_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:pink_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:pink_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:red_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:red_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:white_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:white_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:yellow_apricorn_sapling": {
+    "sound": "grass"
+  },
+  "pokeb:yellow_apricorn_leaves": {
+    "sound": "grass"
+  },
+  "pokeb:lava_stone_ore": {
+    "textures": "lava_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:leaf_stone_ore": {
+    "textures": "leaf_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:thunder_stone_ore": {
+    "textures": "thunder_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:dusk_stone_ore": {
+    "textures": "dusk_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:dawn_stone_ore": {
+    "textures": "dawn_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:water_stone_ore": {
+    "textures": "water_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:sun_stone_ore": {
+    "textures": "sun_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:fire_stone_ore": {
+    "textures": "fire_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:ruby_block": {
+    "textures": "ruby_block",
+    "sound": "normal"
+  },
+  "pokeb:silicon_ore": {
+    "textures": "silicon_ore",
+    "sound": "normal"
+  },
+  "pokeb:bauxite_ore": {
+    "textures": "bauxite_ore",
+    "sound": "normal"
+  },
+  "pokeb:moon_stone_ore": {
+    "textures": "moon_stone_ore",
+    "sound": "normal"
+  },
+  "pokeb:ruby_ore": {
+    "textures": "ruby_ore",
+    "sound": "normal"
+  },
+  "pokeb:aguav_berry_plant": {
+    "textures": "ruby_ore",
+    "sound": "normal"
+  },
+  "format_version": [1, 1, 0]
+}

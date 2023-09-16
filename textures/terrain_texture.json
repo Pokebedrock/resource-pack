@@ -1,0 +1,286 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "pc_blink": {
+      "textures": "textures/blocks/pc/pc_blink"
+    },
+    "pc_sleep": {
+      "textures": "textures/blocks/pc/pc_sleep"
+    },
+    "healing_machine": {
+      "textures": "textures/blocks/healing_machine/healing_machine"
+    },
+    "healing_machine_off": {
+      "textures": "textures/blocks/healing_machine/healing_machine_off"
+    },
+    "trade_machine": {
+      "textures": "textures/blocks/trade_machine/normal"
+    },
+    "apricorn_log": {
+      "textures": "textures/blocks/apricorn/log"
+    },
+    "apricorn_log_top": {
+      "textures": "textures/blocks/apricorn/log_top"
+    },
+    "apricorn_stripped_log": {
+      "textures": "textures/blocks/apricorn/stripped_log"
+    },
+    "apricorn_stripped_log_top": {
+      "textures": "textures/blocks/apricorn/stripped_log_top"
+    },
+    "black_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/black"
+    },
+    "black_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_black"
+    },
+    "blue_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/blue"
+    },
+    "blue_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_blue"
+    },
+    "green_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/green"
+    },
+    "green_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_green"
+    },
+    "pink_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/pink"
+    },
+    "pink_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_pink"
+    },
+    "red_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/red"
+    },
+    "red_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_red"
+    },
+    "white_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/white"
+    },
+    "white_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_white"
+    },
+    "yellow_apricorn_sapling": {
+      "textures": "textures/items/apricorns/saplings/yellow"
+    },
+    "yellow_apricorn_leaves": {
+      "textures": "textures/blocks/apricorn/leaves_yellow"
+    },
+    "sun_stone_ore": {
+      "textures": "textures/blocks/ores/sun_stone_ore"
+    },
+    "thunder_stone_ore": {
+      "textures": "textures/blocks/ores/thunder_stone_ore"
+    },
+    "dusk_stone_ore": {
+      "textures": "textures/blocks/ores/dusk_stone_ore"
+    },
+    "lava_stone_ore": {
+      "textures": "textures/blocks/ores/lava_stone_ore"
+    },
+    "water_stone_ore": {
+      "textures": "textures/blocks/ores/water_stone_ore"
+    },
+    "fire_stone_ore": {
+      "textures": "textures/blocks/ores/fire_stone_ore"
+    },
+    "leaf_stone_ore": {
+      "textures": "textures/blocks/ores/leaf_stone_ore"
+    },
+    "bauxite_ore": {
+      "textures": "textures/blocks/ores/bauxite_ore"
+    },
+    "ruby_ore": {
+      "textures": "textures/blocks/ores/ruby_ore"
+    },
+    "moon_stone_ore": {
+      "textures": "textures/blocks/ores/moon_stone_ore"
+    },
+    "ruby_block": {
+      "textures": "textures/blocks/ruby_block"
+    },
+    "silicon_ore": {
+      "textures": "textures/blocks/ores/silicon_ore"
+    },
+    "dawn_stone_ore": {
+      "textures": "textures/blocks/ores/dawn_stone_ore"
+    },
+
+    // Berries
+    "berry_plant_stage_1": {
+      "textures": "textures/blocks/berries/stage_1"
+    },
+    "berry_plant_stage_2": {
+      "textures": "textures/blocks/berries/stage_2"
+    },
+    "aguav_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/aguav/stage_3"
+    },
+    "aguav_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/aguav/stage_4"
+    },
+    "aguav_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/aguav/stage_5"
+    },
+    "aspear_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/aspear/stage_3"
+    },
+    "aspear_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/aspear/stage_4"
+    },
+    "aspear_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/aspear/stage_5"
+    },
+    "bluk_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/bluk/stage_3"
+    },
+    "bluk_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/bluk/stage_4"
+    },
+    "bluk_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/bluk/stage_5"
+    },
+    "cheri_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/cheri/stage_3"
+    },
+    "cheri_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/cheri/stage_4"
+    },
+    "cheri_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/cheri/stage_5"
+    },
+    "chesto_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/chesto/stage_3"
+    },
+    "chesto_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/chesto/stage_4"
+    },
+    "chesto_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/chesto/stage_5"
+    },
+    "figy_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/figy/stage_3"
+    },
+    "figy_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/figy/stage_4"
+    },
+    "figy_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/figy/stage_5"
+    },
+    "iapapa_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/iapapa/stage_3"
+    },
+    "iapapa_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/iapapa/stage_4"
+    },
+    "iapapa_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/iapapa/stage_5"
+    },
+    "leppa_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/leppa/stage_3"
+    },
+    "leppa_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/leppa/stage_4"
+    },
+    "leppa_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/leppa/stage_5"
+    },
+    "lum_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/lum/stage_3"
+    },
+    "lum_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/lum/stage_4"
+    },
+    "lum_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/lum/stage_5"
+    },
+    "mago_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/mago/stage_3"
+    },
+    "mago_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/mago/stage_4"
+    },
+    "mago_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/mago/stage_5"
+    },
+    "nanab_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/nanab/stage_3"
+    },
+    "nanab_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/nanab/stage_4"
+    },
+    "nanab_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/nanab/stage_5"
+    },
+    "oran_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/oran/stage_3"
+    },
+    "oran_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/oran/stage_4"
+    },
+    "oran_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/oran/stage_5"
+    },
+    "pecha_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/pecha/stage_3"
+    },
+    "pecha_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/pecha/stage_4"
+    },
+    "pecha_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/pecha/stage_5"
+    },
+    "persim_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/persim/stage_3"
+    },
+    "persim_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/persim/stage_4"
+    },
+    "persim_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/persim/stage_5"
+    },
+    "rawst_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/rawst/stage_3"
+    },
+    "rawst_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/rawst/stage_4"
+    },
+    "rawst_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/rawst/stage_5"
+    },
+    "razz_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/razz/stage_3"
+    },
+    "razz_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/razz/stage_4"
+    },
+    "razz_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/razz/stage_5"
+    },
+    "sitrus_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/sitrus/stage_3"
+    },
+    "sitrus_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/sitrus/stage_4"
+    },
+    "sitrus_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/sitrus/stage_5"
+    },
+    "wiki_berry_plant_stage_3": {
+      "textures": "textures/blocks/berries/wiki/stage_3"
+    },
+    "wiki_berry_plant_stage_4": {
+      "textures": "textures/blocks/berries/wiki/stage_4"
+    },
+    "wiki_berry_plant_stage_5": {
+      "textures": "textures/blocks/berries/wiki/stage_5"
+    }
+  }
+}

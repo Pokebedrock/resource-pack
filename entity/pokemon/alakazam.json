@@ -1,0 +1,38 @@
+{
+    "format_version": "1.18.3",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "pokemon:alakazam",
+            "materials": {
+                "default": "zombie"
+            },
+            "textures": {
+                "default": "textures/entity/pokemon/alakazam/alakazam",
+                "shiny": "textures/entity/pokemon/alakazam/shiny_alakazam"
+            },
+            "geometry": {
+                "default": "geometry.alakazam"
+            },
+            "scripts": {
+                "animate": [
+                    "look_at_target",
+                    "ground_pokemon"
+                ]
+            },
+            "animations": {
+                "walk": "animation.alakazam.walk",
+                "look_at_target": "animation.common.look_at_target",
+                "chill": "animation.alakazam.chill",
+                "flying_pokemon": "controller.animation.flying.pokemon",
+                "ground_pokemon": "controller.animation.ground.pokemon"
+            },
+            "render_controllers": [
+                "controller.render.pokemon"
+            ],
+            "spawn_egg": {
+                "texture": "alakazam",
+                "texture_index": 0
+            }
+        }
+    }
+}

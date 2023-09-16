@@ -1,0 +1,38 @@
+{
+    "format_version": "1.18.3",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "pokemon:tauros",
+            "materials": {
+                "default": "zombie"
+            },
+            "textures": {
+                "default": "textures/entity/pokemon/tauros/tauros",
+                "shiny": "textures/entity/pokemon/tauros/shiny_tauros"
+            },
+            "geometry": {
+                "default": "geometry.tauros"
+            },
+            "scripts": {
+                "animate": [
+                    "look_at_target",
+                    "ground_pokemon"
+                ]
+            },
+            "animations": {
+                "walk": "animation.tauros.walk",
+                "look_at_target": "animation.common.look_at_target",
+                "chill": "animation.tauros.chill",
+                "flying_pokemon": "controller.animation.flying.pokemon",
+                "ground_pokemon": "controller.animation.ground.pokemon"
+            },
+            "render_controllers": [
+                "controller.render.pokemon"
+            ],
+            "spawn_egg": {
+                "texture": "tauros",
+                "texture_index": 0
+            }
+        }
+    }
+}

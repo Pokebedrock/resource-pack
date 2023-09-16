@@ -1,0 +1,38 @@
+{
+    "format_version": "1.18.3",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "pokemon:kangaskhan",
+            "materials": {
+                "default": "zombie"
+            },
+            "textures": {
+                "default": "textures/entity/pokemon/kangaskhan/kangaskhan",
+                "shiny": "textures/entity/pokemon/kangaskhan/shiny_kangaskhan"
+            },
+            "geometry": {
+                "default": "geometry.kangaskhan"
+            },
+            "scripts": {
+                "animate": [
+                    "look_at_target",
+                    "ground_pokemon"
+                ]
+            },
+            "animations": {
+                "walk": "animation.kangaskhan.walk",
+                "look_at_target": "animation.common.look_at_target",
+                "chill": "animation.kangaskhan.chill",
+                "flying_pokemon": "controller.animation.flying.pokemon",
+                "ground_pokemon": "controller.animation.ground.pokemon"
+            },
+            "render_controllers": [
+                "controller.render.pokemon"
+            ],
+            "spawn_egg": {
+                "texture": "kangaskhan",
+                "texture_index": 0
+            }
+        }
+    }
+}

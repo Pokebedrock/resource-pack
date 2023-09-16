@@ -1,0 +1,38 @@
+{
+    "format_version": "1.18.3",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "pokemon:lickitung",
+            "materials": {
+                "default": "zombie"
+            },
+            "textures": {
+                "default": "textures/entity/pokemon/lickitung/lickitung",
+                "shiny": "textures/entity/pokemon/lickitung/shiny_lickitung"
+            },
+            "geometry": {
+                "default": "geometry.lickitung"
+            },
+            "scripts": {
+                "animate": [
+                    "look_at_target",
+                    "ground_pokemon"
+                ]
+            },
+            "animations": {
+                "walk": "animation.lickitung.walk",
+                "look_at_target": "animation.common.look_at_target",
+                "chill": "animation.lickitung.chill",
+                "flying_pokemon": "controller.animation.flying.pokemon",
+                "ground_pokemon": "controller.animation.ground.pokemon"
+            },
+            "render_controllers": [
+                "controller.render.pokemon"
+            ],
+            "spawn_egg": {
+                "texture": "lickitung",
+                "texture_index": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "format_version": "1.18.3",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "pokemon:paras",
+            "materials": {
+                "default": "zombie"
+            },
+            "textures": {
+                "default": "textures/entity/pokemon/paras/paras",
+                "shiny": "textures/entity/pokemon/paras/shiny_paras"
+            },
+            "geometry": {
+                "default": "geometry.paras"
+            },
+            "scripts": {
+                "animate": [
+                    "look_at_target",
+                    "ground_pokemon"
+                ]
+            },
+            "animations": {
+                "walk": "animation.paras.walk",
+                "look_at_target": "animation.common.look_at_target",
+                "chill": "animation.paras.chill",
+                "flying_pokemon": "controller.animation.flying.pokemon",
+                "ground_pokemon": "controller.animation.ground.pokemon"
+            },
+            "render_controllers": [
+                "controller.render.pokemon"
+            ],
+            "spawn_egg": {
+                "texture": "paras",
+                "texture_index": 0
+            }
+        }
+    }
+}
